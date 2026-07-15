@@ -24,6 +24,8 @@ These are the builds that have taken the most time and best represent the work. 
 - `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
 - `parrrotfy` - large product build focused on real workflow delivery and product execution
 - `ecosuelolab` - client platform work centered on operational workflows and practical business use
+- `n3uralia360.art` - immersive brand and product presentation work for the N3uralia ecosystem
+- `clarity.art` - polished brand-facing web experience focused on clarity and visual identity
 - `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
 - `v0-erpminia` - ERP-style operations tool focused on internal workflows
 - `v0-transport-certificates-automation` - automation for transport certificate handling and repeatable admin work
