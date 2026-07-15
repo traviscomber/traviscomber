@@ -16,26 +16,27 @@ At [n3uralia.com](https://n3uralia.com), we build apps as a factory: rapid deliv
 
 ## Selected Projects
 
-These are the public projects that best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
+These are the builds that have taken the most time and best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
 
-### Products and platforms
+### Large product builds
 
+- `cleaner2.vercel.app` / Transportes Labbe - transport operations platform for conductores, subcontractors, document flow, and compliance reporting
 - `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
+- `parrrotfy` - large product build focused on real workflow delivery and product execution
+- `ecosuelolab` - client platform work centered on operational workflows and practical business use
 - `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
-- `traviscomber` - public portfolio hub and profile README
-- `v0-seguria-website` - client-facing website and landing-page build
 - `v0-erpminia` - ERP-style operations tool focused on internal workflows
 - `v0-transport-certificates-automation` - automation for transport certificate handling and repeatable admin work
-- `v0-mini-pms-dashboard` - lightweight PMS dashboard prototype for operational visibility
+- `v0-seguria-website` - client-facing website and landing-page build
 - `black-swan-facility-core` - core system for facility and operations workflows
 
-### AI and automation
+### AI, agents, and automation
 
 - `hermes-agent` - adaptive agent framework that scales with the work it receives
 - `agency-agents` - multi-agent toolkit for specialized AI roles and coordinated workflows
 - `open-code-review` - hybrid code review system combining deterministic checks with LLM assistance
-- `storytime-slackbot` - Slack bot that turns collaborative input into stories
 - `OpenMemory` - long-term memory layer for AI systems in a self-hosted setup
+- `storytime-slackbot` - Slack bot that turns collaborative input into stories
 - `langrepl` - terminal chat experience built on LangChain, LangGraph, Prompt Toolkit, and Rich
 
 ### Visual and experimental work
