@@ -14,45 +14,39 @@ At [n3uralia.com](https://n3uralia.com), we build apps as a factory: rapid deliv
 - Build multimodal and agentic tools that connect systems, data, and users
 - Create polished interfaces that feel clear, fast, and intentional
 
-## Projects
+## Selected Projects
 
-### AI, agents, and automation
+These are the public projects that best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
 
-- [n3uralia.com](https://n3uralia.com) - our app factory for shipping AI products and workflow software
-- `n3uralia-intelligence-platform-propertyparners` - intelligence platform for property analysis, market context, and decision support
-- `hermes-agent` - adaptive agent framework that grows with the work it is given
-- `agency-agents` - multi-agent agency toolkit for specialized AI roles and workflows
-- `open-code-review` - hybrid code review system with deterministic checks plus LLM assistance
-- `storytime-slackbot` - Slack bot that turns collaborative input into stories
-- `langrepl` - terminal chat experience built on LangChain, LangGraph, Prompt Toolkit, and Rich
-- `AI-Tutorial-Codes-Included` - notebooks and code samples for AI project experiments
-- `OpenMemory` - long-term memory for AI systems in a self-hosted, framework-free setup
+### Products and platforms
 
-### Product and web apps
-
-- `traviscomber` - profile hub and public portfolio README
-- `v0-seguria-website` - client-facing website and landing-page work
-- `v0-erpminia` - ERP-style business application and operations tooling
-- `v0-mini-pms-dashboard` - lightweight PMS dashboard prototype
-- `v0-transport-certificates-automation` - workflow automation for transport certificate handling
+- `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
+- `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
+- `traviscomber` - public portfolio hub and profile README
+- `v0-seguria-website` - client-facing website and landing-page build
+- `v0-erpminia` - ERP-style operations tool focused on internal workflows
+- `v0-transport-certificates-automation` - automation for transport certificate handling and repeatable admin work
+- `v0-mini-pms-dashboard` - lightweight PMS dashboard prototype for operational visibility
 - `black-swan-facility-core` - core system for facility and operations workflows
-- `kumplio` - product build focused on practical user workflows
 
-### Visual, media, and search
+### AI and automation
 
-- `Imgenhnancer` - image enhancement tooling
+- `hermes-agent` - adaptive agent framework that scales with the work it receives
+- `agency-agents` - multi-agent toolkit for specialized AI roles and coordinated workflows
+- `open-code-review` - hybrid code review system combining deterministic checks with LLM assistance
+- `storytime-slackbot` - Slack bot that turns collaborative input into stories
+- `OpenMemory` - long-term memory layer for AI systems in a self-hosted setup
+- `langrepl` - terminal chat experience built on LangChain, LangGraph, Prompt Toolkit, and Rich
+
+### Visual and experimental work
+
 - `0-visual-compare-chile` - visual comparison and search workflow for Chile
-- `FlowGenNoise` - generative workflow and signal exploration
+- `Imgenhnancer` - image enhancement tooling
 - `cog-stable-diffusion` - Stable Diffusion model tooling
+- `FlowGenNoise` - generative workflow and signal exploration
 - `End-to-End-Movie-Recommendation-System` - movie recommendation system notebook and pipeline
 - `aileen` - codegen platform provisioning apps with Neon databases
-
-### Experiments and other builds
-
 - `neuralianew` - new iteration of the N3uralia product direction
-- `surrealista` - experimental TypeScript app
-- `n` - minimal TypeScript experiment
-- `cort3x` - fast TypeScript prototype
 
 ## How I work
 
