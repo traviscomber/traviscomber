@@ -14,15 +14,15 @@ I work at the intersection of product, engineering, and applied AI: turning mess
 
 ## Selected public work
 
-- `CogVideo` - multimodal video experimentation and generation
-- `Paper2Video` - research-to-video workflows
-- `FramePack` - compact tooling experiments around generated media
-- `SphereAR` - AR and spatial interface prototyping
-- `user-prompt-mcp` - prompt and input plumbing for agent workflows
-- `v0-transport-certificates-automation` - certificate and operations automation
-- `open-agent-buildercrawler` - agent-building and crawler tooling
-- `astro` - web/app experiments and UI work
-- `RollingForcing` - lightweight technical experiments
+- `CogVideo` - video generation research and multimodal experimentation with a practical builder mindset
+- `Paper2Video` - research-to-video workflows that turn papers into usable media pipelines
+- `FramePack` - compact tooling experiments around generated media and video systems
+- `SphereAR` - AR and spatial interface prototyping for immersive product concepts
+- `user-prompt-mcp` - prompt and input plumbing for agent workflows and human-in-the-loop systems
+- `v0-transport-certificates-automation` - certificate and operations automation for repetitive infrastructure work
+- `open-agent-buildercrawler` - agent-building and crawler tooling for structured web extraction
+- `astro` - web/app experiments and UI work focused on fast iteration
+- `RollingForcing` - lightweight technical experiments and proof-of-concept builds
 
 ## How I work
 
