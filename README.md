@@ -1,47 +1,37 @@
 # Travis Comber
 
-Building AI-first products, automation systems, and interactive experiences that ship.
+Building AI products, automation systems, and interactive experiences that ship.
 
-I focus on turning messy workflows into reliable software: agentic tools, multimodal pipelines, browser automation, product prototypes, and production-ready web apps.
+I work at the intersection of product, engineering, and applied AI: turning messy workflows into reliable software, shipping fast, and keeping the result useful in the real world.
 
-## What I build
+## What I do
 
-- AI agents and orchestration
-- Multimodal media tools
-- Product prototypes and internal tools
-- Automation for repetitive business workflows
-- Visual and interactive web experiences
+- Design and build AI-first products
+- Automate repetitive business and operational workflows
+- Prototype and ship web apps with modern React, Next.js, TypeScript, and Python
+- Build multimodal and agentic tools that connect systems, data, and users
+- Create polished interfaces that feel clear, fast, and intentional
 
 ## Selected public work
 
-- `CogVideo` - video generation and multimodal experimentation
+- `CogVideo` - multimodal video experimentation and generation
 - `Paper2Video` - research-to-video workflows
 - `FramePack` - compact tooling experiments around generated media
 - `SphereAR` - AR and spatial interface prototyping
-- `user-prompt-mcp` - prompt/input plumbing for agent workflows
+- `user-prompt-mcp` - prompt and input plumbing for agent workflows
 - `v0-transport-certificates-automation` - certificate and operations automation
 - `open-agent-buildercrawler` - agent-building and crawler tooling
 - `astro` - web/app experiments and UI work
 - `RollingForcing` - lightweight technical experiments
 
-## Focus areas
+## How I work
 
-- Next.js and modern React
-- TypeScript
-- Python
-- AI tooling and LLM integration
-- Browser and workflow automation
-- Generative media systems
-- Product iteration at speed
-
-## Working style
-
-- Fast iteration with a production mindset
+- Fast iteration, without losing the production mindset
 - Practical architecture over hype
-- Shipping real functionality, not just demos
-- Tight feedback loops and measurable improvements
+- Strong feedback loops and measurable improvements
+- Clean execution with room for experimentation
 
-## Current direction
+## Current focus
 
 More agentic systems, better product surfaces, and stronger automation around real user workflows.
 
