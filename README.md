@@ -12,17 +12,44 @@ I work at the intersection of product, engineering, and applied AI: turning mess
 - Build multimodal and agentic tools that connect systems, data, and users
 - Create polished interfaces that feel clear, fast, and intentional
 
-## Selected public work
+## Projects
 
-- `CogVideo` - video generation research and multimodal experimentation with a practical builder mindset
-- `Paper2Video` - research-to-video workflows that turn papers into usable media pipelines
-- `FramePack` - compact tooling experiments around generated media and video systems
-- `SphereAR` - AR and spatial interface prototyping for immersive product concepts
-- `user-prompt-mcp` - prompt and input plumbing for agent workflows and human-in-the-loop systems
-- `v0-transport-certificates-automation` - certificate and operations automation for repetitive infrastructure work
-- `open-agent-buildercrawler` - agent-building and crawler tooling for structured web extraction
-- `astro` - web/app experiments and UI work focused on fast iteration
-- `RollingForcing` - lightweight technical experiments and proof-of-concept builds
+### AI, agents, and automation
+
+- `n3uralia-intelligence-platform-propertyparners` - intelligence platform for property analysis, market context, and decision support
+- `hermes-agent` - adaptive agent framework that grows with the work it is given
+- `agency-agents` - multi-agent agency toolkit for specialized AI roles and workflows
+- `open-code-review` - hybrid code review system with deterministic checks plus LLM assistance
+- `storytime-slackbot` - Slack bot that turns collaborative input into stories
+- `langrepl` - terminal chat experience built on LangChain, LangGraph, Prompt Toolkit, and Rich
+- `AI-Tutorial-Codes-Included` - notebooks and code samples for AI project experiments
+- `OpenMemory` - long-term memory for AI systems in a self-hosted, framework-free setup
+
+### Product and web apps
+
+- `traviscomber` - profile hub and public portfolio README
+- `v0-seguria-website` - client-facing website and landing-page work
+- `v0-erpminia` - ERP-style business application and operations tooling
+- `v0-mini-pms-dashboard` - lightweight PMS dashboard prototype
+- `v0-transport-certificates-automation` - workflow automation for transport certificate handling
+- `black-swan-facility-core` - core system for facility and operations workflows
+- `kumplio` - product build focused on practical user workflows
+
+### Visual, media, and search
+
+- `Imgenhnancer` - image enhancement tooling
+- `0-visual-compare-chile` - visual comparison and search workflow for Chile
+- `FlowGenNoise` - generative workflow and signal exploration
+- `cog-stable-diffusion` - Stable Diffusion model tooling
+- `End-to-End-Movie-Recommendation-System` - movie recommendation system notebook and pipeline
+- `aileen` - codegen platform provisioning apps with Neon databases
+
+### Experiments and other builds
+
+- `neuralianew` - new iteration of the N3uralia product direction
+- `surrealista` - experimental TypeScript app
+- `n` - minimal TypeScript experiment
+- `cort3x` - fast TypeScript prototype
 
 ## How I work
 
