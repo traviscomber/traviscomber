@@ -1,18 +1,18 @@
 # Travis Comber
 
-Building AI products, automation systems, and interactive experiences that ship.
+I build software the way some people build studios: one room for ideas, one room for systems, one room for shipping.
 
-I work at the intersection of product, engineering, and applied AI: turning messy workflows into reliable software, shipping fast, and keeping the result useful in the real world.
+My work lives between product, engineering, and applied AI. I take scattered workflows, rough signals, and half-formed ideas, then turn them into tools that hold up in the real world.
 
-At [n3uralia.com](https://n3uralia.com), we build apps as a factory: rapid delivery, practical AI, and product execution that stays focused on real outcomes.
+At [n3uralia.com](https://n3uralia.com), that becomes a factory for apps: fast delivery, practical AI, and products with a clear point of view.
 
 ## What I do
 
-- Design and build AI-first products
-- Automate repetitive business and operational workflows
-- Prototype and ship web apps with modern React, Next.js, TypeScript, and Python
-- Build multimodal and agentic tools that connect systems, data, and users
-- Create polished interfaces that feel clear, fast, and intentional
+- Design AI-first products with a sharp narrative and a useful core
+- Automate repetitive business and operational work until it disappears
+- Prototype and ship web apps with React, Next.js, TypeScript, and Python
+- Build multimodal and agentic tools that connect systems, data, and people
+- Shape interfaces that feel calm, clear, and deliberate
 
 ## Selected Projects
 
@@ -53,14 +53,14 @@ These are the builds that have taken the most time and best represent the work. 
 
 ## How I work
 
-- Fast iteration, without losing the production mindset
+- Fast iteration without losing the production mindset
 - Practical architecture over hype
-- Strong feedback loops and measurable improvements
+- Strong feedback loops and measurable progress
 - Clean execution with room for experimentation
 
 ## Current focus
 
-More agentic systems, better product surfaces, and stronger automation around real user workflows through [n3uralia.com](https://n3uralia.com).
+More agentic systems, sharper product surfaces, and better automation for real workflows through [n3uralia.com](https://n3uralia.com).
 
 ## Contact
 
