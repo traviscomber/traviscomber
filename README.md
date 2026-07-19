@@ -1,12 +1,24 @@
 # Travis Comber
 
-I build software the way some people build studios: one room for ideas, one room for systems, one room for shipping.
+> I build software the way some people build studios: one room for ideas, one room for systems, one room for shipping.
 
 My work lives between product, engineering, and applied AI. I take scattered workflows, rough signals, and half-formed ideas, then turn them into tools that hold up in the real world.
 
 At [n3uralia.com](https://n3uralia.com), that becomes a factory for apps: fast delivery, practical AI, and products with a clear point of view.
 
-## What I do
+## Brand Promise
+
+Building useful software with a strong point of view.
+
+## Design Principles
+
+- Clarity over noise
+- Systems over features
+- Shipping over theory
+- Practical AI over hype
+- Brand with substance, not decoration
+
+## What I Build
 
 - Design AI-first products with a sharp narrative and a useful core
 - Automate repetitive business and operational work until it disappears
@@ -14,19 +26,23 @@ At [n3uralia.com](https://n3uralia.com), that becomes a factory for apps: fast d
 - Build multimodal and agentic tools that connect systems, data, and people
 - Shape interfaces that feel calm, clear, and deliberate
 
-## Selected Projects
+## Signature Work
 
 These are the builds that have taken the most time and best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
+
+### N3uralia core
+
+- `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
+- `n3uralia360.art` - immersive brand and product presentation work for the N3uralia ecosystem
+- `clarity.art` - polished brand-facing web experience focused on clarity and visual identity
+- `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
+- `neuralianew` - new iteration of the N3uralia product direction
 
 ### Large product builds
 
 - `cleaner2.vercel.app` / Transportes Labbe - transport operations platform for conductores, subcontractors, document flow, and compliance reporting
-- `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
 - `parrrotfy` - large product build focused on real workflow delivery and product execution
 - `ecosuelolab` - client platform work centered on operational workflows and practical business use
-- `n3uralia360.art` - immersive brand and product presentation work for the N3uralia ecosystem
-- `clarity.art` - polished brand-facing web experience focused on clarity and visual identity
-- `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
 - `v0-erpminia` - ERP-style operations tool focused on internal workflows
 - `v0-transport-certificates-automation` - automation for transport certificate handling and repeatable admin work
 - `v0-seguria-website` - client-facing website and landing-page build
@@ -49,16 +65,15 @@ These are the builds that have taken the most time and best represent the work. 
 - `FlowGenNoise` - generative workflow and signal exploration
 - `End-to-End-Movie-Recommendation-System` - movie recommendation system notebook and pipeline
 - `aileen` - codegen platform provisioning apps with Neon databases
-- `neuralianew` - new iteration of the N3uralia product direction
 
-## How I work
+## How I Work
 
 - Fast iteration without losing the production mindset
 - Practical architecture over hype
 - Strong feedback loops and measurable progress
 - Clean execution with room for experimentation
 
-## Current focus
+## Current Focus
 
 More agentic systems, sharper product surfaces, and better automation for real workflows through [n3uralia.com](https://n3uralia.com).
 
