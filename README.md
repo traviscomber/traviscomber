@@ -44,7 +44,7 @@ The GitHub account is the engineering record behind the portfolio: original syst
 
 ## Ecosystem
 
-| Platform | Role in the ecosystem | Link |
+| Platform | Role in the ecosystem | Product |
 |---|---|---|
 | **N3uralia** | Engineering studio for vertical operating systems, operational intelligence and production AI | [n3uralia.com](https://n3uralia.com) |
 | **N3uralia360** | Immersive worlds, fulldome, VR, heritage and spatial-media experiences | [n3uralia360.art](https://n3uralia360.art) |
@@ -57,32 +57,32 @@ The GitHub account is the engineering record behind the portfolio: original syst
 
 ### Executive map
 
-| System | Vertical operating system | Core outcome | Stage | Surface |
+| System | Vertical operating system | Core outcome | Stage | Product |
 |---|---|---|---|---|
 | **Property Partners Intelligence** | Real Estate Intelligence OS | Market intelligence + professional valuation + commercial control | **Production** | [ppartnersgroup.app](https://ppartnersgroup.app) |
-| **Black Swan Facility Core** | Facility & Hospitality OS | One operating layer for hospitality, people, assets, inventory, procurement, maintenance, finance and events | **Mature** | [Repository](https://github.com/traviscomber/black-swan-facility-core) |
-| **LABBE / DocuFleet** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [chileflota.app](https://chileflota.app) |
+| **Black Swan Facility Core** | Facility & Hospitality OS | Hospitality, people, assets, inventory, procurement, maintenance, finance and events in one operating layer | **Mature** | — |
+| **ChileFlota / LABBE** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [chileflota.app](https://chileflota.app) |
 | **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [motil.app](https://motil.app) |
 | **Kumplio** | Privacy Compliance OS | Turn regulatory gaps into accountable work, evidence and auditable closure | **Active** | [kumplio.app](https://www.kumplio.app/es) |
-| **Videntia** | Industrial Property Intelligence OS | Trademarks, patents, monitoring, cases, governance and decision intelligence | **Active** | [videntia.app](https://videntia.app) |
+| **Videntia** | Industrial Property Intelligence OS | Trademarks, patents, technologies, monitoring, cases, governance and decision intelligence | **Active** | [videntia.app](https://videntia.app) |
 | **Clar1ty** | Visual Intelligence OS | Analyze, enhance and restore images while preserving identity and visual structure | **Active** | [clar1ty.art](https://clar1ty.art) |
 | **Sent1nels** | Cybersecurity Operations OS | Detection, incidents, response, playbooks and security intelligence | **Active** | [sent1nels.com](https://sent1nels.com) |
 | **Sur-Realista** | Territorial Real Estate OS | Geospatial property operations, CRM, tasks, communications and portfolio intelligence | **Active** | — |
-| **EcoSueloLab** | Agricultural Intelligence OS | Satellite/field intelligence translated into actionable farm decisions | **Active** | — |
-| **SegurIA** | Operational Security OS | Cameras, sensors and access-control infrastructure converted into actionable security operations | **Active** | — |
-| **Despega Tu Carrera** | Career Intelligence OS | Personal diagnosis, skills, AI coaching and an executable 30-day development route | **Active** | [despegatucarrera.com](https://despegatucarrera.com) |
+| **EcoSueloLab** | Agricultural Intelligence OS | Satellite and field intelligence translated into actionable farm decisions | **Active** | — |
+| **SegurIA** | Operational Security OS | Cameras, sensors and access control converted into actionable security operations | **Active** | — |
+| **Despega Tu Carrera** | Career Intelligence OS | Personal diagnosis, skills, AI coaching and an executable development route | **Active** | [despegatucarrera.com](https://despegatucarrera.com) |
 | **Cort3x** | Innovation Intelligence OS | Research, opportunity mapping, structured strategy and execution | **Active** | [cort3x.app](https://cort3x.app) |
 | **ANTEMANO** | Anticipatory Intelligence OS | Convert weak signals into useful lead time before operational impact | **R&D** | [antemano.app](https://www.antemano.app) |
-| **N3uralia Edge Intelligence** | Physical Intelligence OS | Physical evidence → inference → observation → review → dataset → model lifecycle | **R&D** | [Repository](https://github.com/traviscomber/edgevision) |
-| **ClaimIA** | Insurance Claims OS | Claims, OCR, evidence, fraud signals, review and decision support | **R&D** | [Repository](https://github.com/traviscomber/claimAI-5s) |
-| **N3uLexCore / LexCore** | Legal Intelligence OS | Contract ingestion, clause intelligence, risks and review workflows | **R&D** | [Repository](https://github.com/traviscomber/lexcore) |
-| **Pescamar · UniGrade** | Seafood Quality OS | Lot evidence, mass balance, quality, yield and export traceability | **MVP** | [Repository](https://github.com/traviscomber/pescamar) |
-| **MermasApp** | Manufacturing Efficiency OS | Waste visibility, financial impact, alerts and explainable operational intelligence | **Product** | [N3uralia Products](https://www.n3uralia.com/en/products) |
-| **PR1SM** | Content Intelligence OS | AI-assisted content operations and controlled production workflows | **Prototype** | [Repository](https://github.com/traviscomber/pr1sm) |
-| **Botel / LumiStay** | Hospitality OS | Hotel operations and management-control exploration | **Prototype** | [Repository](https://github.com/traviscomber/botelAIhotel) |
-| **Parrotfy Agent Layer** | Agentic ERP Operations | Execute supported ERP work from natural-language interfaces such as WhatsApp | **Active** | — |
-| **N3uralia Nano Agents** | Agentic Operations Layer | Specialized agents for narrow operational responsibilities | **Platform** | [N3uralia Products](https://www.n3uralia.com/en/products) |
-| **Agent Matrix** | Multi-Agent Control Plane | Observe, coordinate and govern agentic systems | **Platform** | [N3uralia Products](https://www.n3uralia.com/en/products) |
+| **N3uralia Edge Intelligence** | Physical Intelligence OS | Physical evidence → inference → observation → review → dataset → model lifecycle | **R&D** | — |
+| **ClaimIA** | Insurance Claims OS | Claims, OCR, evidence, fraud signals, review and decision support | **R&D** | — |
+| **N3uLexCore / LexCore** | Legal Intelligence OS | Contract ingestion, clause intelligence, risks and review workflows | **R&D** | — |
+| **Pescamar · UniGrade** | Seafood Quality OS | Lot evidence, mass balance, quality, yield and export traceability | **MVP** | — |
+| **MermasApp** | Manufacturing Efficiency OS | Waste visibility, financial impact, alerts and explainable operational intelligence | **Product** | [N3uralia](https://n3uralia.com) |
+| **PR1SM** | Content Intelligence OS | AI-assisted content operations and controlled production workflows | **Prototype** | — |
+| **Botel / LumiStay** | Hospitality OS | Hotel operations and management-control exploration | **Prototype** | — |
+| **Parrotfy Agent Layer** | Agentic Operations | Execute supported business-system work from natural-language interfaces | **Active** | — |
+| **N3uralia Nano Agents** | Agentic Operations Layer | Specialized agents for narrow operational responsibilities | **Platform** | [N3uralia](https://n3uralia.com) |
+| **Agent Matrix** | Multi-Agent Control Plane | Observe, coordinate and govern agentic systems | **Platform** | [N3uralia](https://n3uralia.com) |
 
 ---
 
@@ -96,7 +96,7 @@ The GitHub account is the engineering record behind the portfolio: original syst
 
 **Real Estate Intelligence OS**
 
-A production operating system connecting market supply, canonical property identity, geospatial neighborhoods, CBRS evidence, professional valuation and commercial management.
+A production operating system connecting market supply, canonical property identity, geospatial neighborhoods, transaction evidence, professional valuation and commercial management.
 
 `Market → Comparables → Decision → Approval → Issued Evidence`
 
@@ -113,22 +113,20 @@ A shared operational core for bookings, people, assets, inventory, procurement, 
 
 `Reservation · Asset · Purchase · Work · Finance`
 
-[Open repository](https://github.com/traviscomber/black-swan-facility-core)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### LABBE / DocuFleet
+### ChileFlota / LABBE
 
 **Transport Compliance OS**
 
-Evidence-driven operations for transportistas, subcontractors, drivers, vehicles and documentary compliance. Includes high-volume PRT evidence, OCR, verification, reconciliation and operational control.
+Evidence-driven operations for transportistas, subcontractors, drivers, vehicles and documentary compliance. Includes high-volume evidence, OCR, verification, reconciliation and operational control.
 
 `Evidence → Validation → Compliance → Action`
 
-[Open product](https://chileflota.app) · [Repository](https://github.com/traviscomber/v0-transport-certificates-automation)
+[Open product](https://chileflota.app)
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +139,7 @@ Not a generic ERP. MOTIL models the mining operation itself: production, mainten
 
 `Alert → Work Order → Resource → HSE → Evidence → KPI`
 
-[Open product](https://motil.app) · [Repository](https://github.com/traviscomber/v0-erpminia)
+[Open product](https://motil.app)
 
 </td>
 </tr>
@@ -165,7 +163,7 @@ Transforms regulatory obligations and gaps into an executable operating model wi
 
 **Industrial Property Intelligence OS**
 
-Connects trademarks, patents, research, competitive monitoring, cases, governance, risk and decision briefs in one traceable intellectual-property workflow.
+Connects trademarks, patents, technologies, research, competitive monitoring, cases, governance, risk and decision briefs in one traceable intellectual-property workflow.
 
 `Research → Signal → Case → Governance → Decision`
 
@@ -259,7 +257,7 @@ This is why most N3uralia products are better understood as **operating systems 
 
 ### Operational systems
 
-Property Partners · Black Swan Facility Core · LABBE / DocuFleet · MOTIL · Kumplio · Videntia · Sur-Realista · EcoSueloLab · SegurIA · Parrotfy · Pescamar / UniGrade · Botel / LumiStay
+Property Partners · Black Swan Facility Core · ChileFlota / LABBE · MOTIL · Kumplio · Videntia · Sur-Realista · EcoSueloLab · SegurIA · Parrotfy · Pescamar / UniGrade · Botel / LumiStay
 
 ### Intelligence systems
 
