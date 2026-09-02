@@ -60,7 +60,7 @@ The GitHub account is the engineering record behind the portfolio: original syst
 | System | Vertical operating system | Core outcome | Stage | Surface |
 |---|---|---|---|---|
 | **Property Partners Intelligence** | Real Estate Intelligence OS | Market intelligence + professional valuation + commercial control | **Production** | [ppartnersgroup.app](https://ppartnersgroup.app) |
-| **Black Swan Facility Core** | Facility & Hospitality OS | One operating layer for hospitality, people, assets, inventory, procurement, maintenance, finance and events | **Mature** | [blackswn.app](https://blackswn.app) |
+| **Black Swan Facility Core** | Facility & Hospitality OS | One operating layer for hospitality, people, assets, inventory, procurement, maintenance, finance and events | **Mature** | [Repository](https://github.com/traviscomber/black-swan-facility-core) |
 | **LABBE / DocuFleet** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [chileflota.app](https://chileflota.app) |
 | **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [motil.app](https://motil.app) |
 | **Kumplio** | Privacy Compliance OS | Turn regulatory gaps into accountable work, evidence and auditable closure | **Active** | [kumplio.app](https://www.kumplio.app/es) |
