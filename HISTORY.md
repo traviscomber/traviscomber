@@ -44,6 +44,14 @@ N3uralia gradually moved from describing AI services toward a stronger systems t
 
 This became the parent architecture under which the later vertical products could make sense as one coherent body of work.
 
+## July 2025 · Generative and spatial-media experiments
+
+The original **FlowSketch / FlowGenNoise** and image-enhancement experiments explored cultural generative art, projection-aware imagery, 360° and dome formats, and preservation constraints.
+
+Those experiments later became part of the engineering lineage behind **N3uralia360**, **VisionCraft** and the preservation-first thinking used in **Clar1ty**.
+
+They remain useful historical evidence, but the current products are represented by their canonical product surfaces rather than the old experimental deployments.
+
 ## August 2025 · Territorial intelligence
 
 **Sur-Realista** was created on **11 August 2025**.
@@ -198,23 +206,58 @@ The account preserves these artifacts because they are part of the engineering p
 
 GitHub's repository graph is part of the evidence. When GitHub reports a repository as a fork with a parent/source project, that upstream project remains the original authorship.
 
-Confirmed public upstream forks in this account include:
+### Confirmed public upstream forks
 
-| Repository in this account | Upstream source | How it is treated here |
+| Repository in this account | Original / upstream lineage | Portfolio treatment |
 |---|---|---|
-| `gemini-cli` | `google-gemini/gemini-cli` | Evaluation / research fork |
-| `OpenMemory` | `CaviraOSS/LongMemory` | Evaluation / research fork |
-| `hermes-agent` | `NousResearch/hermes-agent` | Evaluation / research fork |
-| `open-code-review` | `alibaba/open-code-review` | Evaluation / research fork |
-| `SphereAR` | `guolinke/SphereAR` | Research fork |
-| `clarity-upscaler` | `philz1337x/clarity-upscaler` | Upstream image tooling; not the origin of Clar1ty |
-| `CogVideo` | `zai-org/CogVideo` | Video-model research fork |
+| `gemini-cli` | `google-gemini/gemini-cli` | Evaluation / research |
+| `OpenMemory` | `CaviraOSS/LongMemory` | Evaluation / research |
+| `hermes-agent` | `NousResearch/hermes-agent` | Evaluation / research |
+| `open-code-review` | `alibaba/open-code-review` | Evaluation / research |
+| `SphereAR` | `guolinke/SphereAR` | Model research |
+| `clarity-upscaler` | `philz1337x/clarity-upscaler` | Upstream image tooling; not Clar1ty authorship |
+| `CogVideo` | `zai-org/CogVideo` | Video-model research |
+| `FramePack` | `lllyasviel/FramePack` | Video-model research |
+| `Paper2Video` | `showlab/Paper2Video` | Research / evaluation |
+| `RollingForcing` | `TencentARC/RollingForcing` | Video-model research |
+| `cog-stable-diffusion` | `replicate/cog-stable-diffusion` lineage | Model deployment research |
+| `AI-Tutorial-Codes-Included` | `MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials` | Tutorial / evaluation |
+| `Rock-and-Mine-Detection` | `KalyanM45/Rock-and-Mine-Detection` | Learning / evaluation |
+| `End-to-End-Movie-Recommendation-System` | `KalyanM45/End-to-End-Movie-Recommendation-System` | Learning / evaluation |
+| `awesome-claude-agents` | `vijaythecoder/awesome-claude-agents` | Agent research |
+| `agency-agents` | `msitarzewski/agency-agents` | Agent research |
+| `open-agent-buildercrawler` | `firecrawl/open-agent-builder` | Agent-builder evaluation |
+| `langrepl` | `midodimori/langrepl` | Agent tooling evaluation |
+| `aileen` | `andrelandgraf/aileen` | Codegen-platform evaluation |
+| `user-prompt-mcp` | `nazar256/user-prompt-mcp` | MCP evaluation |
+| `lyricmind` | `matteoroxis/lyricmind` | RAG/tutorial evaluation |
+| `storytime-slackbot` | `vercel-labs/storytime-slackbot` | Workflow / Slack evaluation |
+| `astro` | `hermitonl/astro` lineage | Web / creative evaluation |
 
 These repositories are useful engineering inputs, but **they are not presented as Travis Comber / N3uralia products**.
 
-Examples of public original lineages elevated by this curation include N3uralia, Sur-Realista, Black Swan Facility Core, ChileFlota, MOTIL, Kumplio, Videntia, SegurIA, Cort3x, Pescamar / UniGrade, ANTEMANO and Ableton AI Control Bridge. Private original systems such as Property Partners and Clar1ty are represented through their product surfaces instead of exposing client or implementation IP.
+### Verified original public lineages
 
-This provenance rule is permanent: product authorship is determined by the actual lineage and repository evidence, not by which repositories happen to be visible on the account.
+The public account also contains original repositories that are part of the actual product/engineering record. Examples already verified during this curation include:
+
+- **N3uralia** — current company/product-system lineage;
+- **Sur-Realista** — Territorial Real Estate OS;
+- **Black Swan Facility Core** — Facility & Hospitality OS;
+- **ChileFlota / LABBE** — Transport Compliance OS;
+- **MOTIL** — Mining Operations OS;
+- **Kumplio** — Privacy Compliance OS;
+- **Videntia** — Industrial Property Intelligence OS;
+- **SegurIA** — Operational Security OS;
+- **Cort3x** — Innovation Intelligence OS;
+- **Pescamar / UniGrade** — Seafood Quality OS prototype;
+- **ANTEMANO** — Anticipatory Intelligence OS;
+- **Ableton AI Control Bridge** — independent experimental engineering;
+- **FlowSketch / FlowGenNoise** — original spatial/generative-media research lineage;
+- **Imgenhnancer** — original image-enhancement experimentation that informed later preservation-first work.
+
+Private original systems such as **Property Partners**, **Clar1ty** and **Edge Intelligence** are represented through product/capability surfaces when exposing implementation would reveal client context or product IP.
+
+This provenance rule is permanent: product authorship is determined by the actual repository lineage and evidence, not by which repositories happen to be visible on the account.
 
 ---
 
