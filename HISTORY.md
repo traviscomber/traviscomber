@@ -76,200 +76,192 @@ Black Swan became one of the clearest transitions from “application” thinkin
 
 `Reservation · Asset · Purchase · Work · Finance`
 
+**Public repository:** [black-swan-facility-core](https://github.com/traviscomber/black-swan-facility-core)
+
 ---
 
-# 2026 — Vertical Operating Systems
+# 2026 — Vertical operating systems become the core thesis
 
-## May 2026 · Industrial-property intelligence
+## May 2026 · Videntia — intellectual property as an intelligence system
 
-The public repository behind **Videntia** was created on **11 May 2026**.
+The public repository behind the current **Videntia** lineage was created on **11 May 2026**.
 
-Videntia evolved into an Industrial Property Intelligence OS spanning trademarks, patents, monitoring, research, cases, governance, risk, automation and executive decision support.
+The project evolved from visual comparison and trademark-oriented tooling into an industrial-property intelligence system spanning trademarks, patents, technologies, monitoring, research, cases, governance and decision support.
+
+The important architectural shift was to treat intellectual property as a continuously changing evidence system rather than a collection of isolated searches.
 
 **Current product:** [videntia.app](https://videntia.app)
 
-## May 2026 · Mining becomes an operating model
+## May 2026 · MOTIL — mining operations, not a generic ERP
 
-**MOTIL** was created on **25 May 2026**.
+The repository behind **MOTIL** was created on **25 May 2026**.
 
-MOTIL is not a generic ERP with mining labels. It models the mining operation itself: production, maintenance, warehouse, HSE, documents, purchasing, finance and management intelligence in one traceable workflow.
+MOTIL models the mining operation itself: production, maintenance, warehouse, HSE, documents, purchasing, finance and management intelligence. Its workflows connect operational alerts to work orders, resources, evidence and management KPIs.
 
 `Alert → Work Order → Resource → HSE → Evidence → KPI`
 
-**Current product:** [motil.app](https://motil.app)
+**Current product:** [motil.app](https://motil.app)  
+**Public repository:** [v0-erpminia](https://github.com/traviscomber/v0-erpminia)
 
-## May 2026 · Physical security moves toward intelligence
+## May 2026 · SegurIA — physical infrastructure becomes operational intelligence
 
-The current public **SegurIA** line was created on **27 May 2026**.
+The current public SegurIA web lineage was created on **27 May 2026**.
 
-The focus shifted from installed security hardware toward an operational layer that can connect cameras, sensors and access-control infrastructure to events, context, evidence and response.
+SegurIA applies the same systems pattern to security: cameras, sensors and access-control infrastructure become evidence sources feeding an operational security layer rather than remaining disconnected devices.
 
-That work later converged with the broader N3uralia physical-intelligence direction.
+**Public repository:** [v0-seguria-website](https://github.com/traviscomber/v0-seguria-website)
 
-## June 2026 · Compliance as continuous operations
+## June 2026 · Kumplio — compliance becomes executable work
 
 **Kumplio** was created on **6 June 2026**.
 
-Instead of treating privacy compliance as a checklist or document repository, Kumplio turns obligations and detected gaps into work: owners, deadlines, evidence, controls, human review and auditable closure.
+The product turns privacy and regulatory obligations into accountable operational work: discover gaps, assign ownership, collect evidence, review controls and close obligations with traceability.
 
 `Discover → Gap → Action → Evidence → Review`
 
-**Current product:** [kumplio.app](https://kumplio.app)
+**Current product:** [kumplio.app](https://www.kumplio.app/es)  
+**Public repository:** [kumplio](https://github.com/traviscomber/kumplio)
 
-## Mid-2026 · N3uralia is formalized as a systems company
+## Mid-2026 · Property Partners — evidence-driven real-estate intelligence
 
-During 2026 the N3uralia public site and brand architecture were consolidated around a clearer proposition:
+**Property Partners Intelligence** became one of the strongest demonstrations of the N3uralia operating-system model.
 
-- **Operational Intelligence**
-- **Workflow Automation**
-- **Production AI Systems**
-- **Vertical Operating Systems**
+It joins three layers that are often separated in real-estate software:
 
-The common architecture became explicit:
+- **Market intelligence:** live supply, canonical property identity, Vitacura neighborhood geometry, transaction evidence, provenance and freshness.
+- **Professional valuation:** guided cases, human-selected comparables, deterministic calculations, review/return/resubmit, CEO approval and immutable issued evidence.
+- **Commercial management:** role-scoped metrics, alerts, tasks, operational follow-up and persisted reporting.
 
-```text
-REAL OPERATION
-     │
-     ▼
-CANONICAL EVIDENCE
-     │
-     ▼
-DOMAIN / OPERATIONAL MODEL
-     │
-     ├──────────────┐
-     ▼              ▼
-DETERMINISTIC       AI
-RULES           INTELLIGENCE
-     │              │
-     └──────┬───────┘
-            ▼
-         DECISION
-            │
-            ▼
-          ACTION
-            │
-            ▼
-    AUDITABLE OUTCOME
-            │
-            ▼
-      MEMORY / LEARNING
-```
+The system keeps AI subordinate to evidence, deterministic rules, authorization and human professional authority.
 
-## 2026 · Visual and creative intelligence
-
-The creative work separated into complementary product lines:
-
-- **N3uralia360** — immersive worlds, fulldome, VR, heritage and spatial media.
-- **VisionCraft** — AI motion and professional image-to-video workflows.
-- **Clar1ty** — preservation-first visual intelligence for enhancement and restoration.
-
-**Surfaces:** [n3uralia360.art](https://n3uralia360.art) · [v1sioncraft.art](https://v1sioncraft.art) · [clar1ty.art](https://clar1ty.art)
-
-Clar1ty's public product identity should not be confused with the `clarity-upscaler` repository in this account: that repository is an upstream fork used in the broader technical exploration. The N3uralia product is represented here by its product surface and its own private product lineage.
-
-## August 2026 · Specialized operating systems
-
-**Pescamar / UniGrade** was created on **19 August 2026**.
-
-It applies the same operating-system logic to seafood quality and traceability: fisherman deliveries, lots, net weight, mass balance, yield, quality evidence and export-oriented traceability.
-
-## August 2026 · Anticipatory intelligence
-
-**ANTEMANO** was created on **23 August 2026**.
-
-It extends the operating-system thesis forward in time:
-
-**Signal → Event → Impact → Decision → Outcome → Memory**
-
-The objective is to connect external and internal signals to operational dependencies so organizations gain useful lead time before an event becomes a problem.
-
-**Current product:** [antemano.app](https://antemano.app)
-
-## Q3 2026 · Decision intelligence reaches production depth
-
-The **Property Partners Intelligence Platform** represents the most mature expression of the decision-intelligence pattern in real estate: canonical property identity, KML neighborhoods, live market evidence, CBRS transactions, professional valuation, governed approvals and immutable issued evidence.
-
-`Market → Evidence → Comparables → Decision → Approval → Issued Record`
+`Market → Comparables → Decision → Approval → Issued Evidence`
 
 **Current product:** [ppartnersgroup.app](https://ppartnersgroup.app)
 
-## Q3 2026 · Physical intelligence becomes a platform
+The implementation repository remains private because it contains client-specific engineering and operational context.
 
-**N3uralia Edge Intelligence** expands the same architecture into the physical world: organizations, sites, edge devices, cameras, events, observations, visual evidence, review, annotation, golden datasets, model registry and evaluation.
+## Mid-2026 · Clar1ty — preservation-first visual intelligence
 
-The goal is not “computer vision as a feature.” It is an operating system for turning physical observations into governed operational knowledge.
+**Clar1ty** developed as the visual-intelligence branch of the portfolio: enhancement, restoration and professional imaging in which the source image remains authoritative.
+
+The product principle is the same as in the operational systems: AI may infer and improve, but it should not silently replace the evidence it is supposed to preserve.
+
+**Current product:** [clar1ty.art](https://clar1ty.art)
+
+The GitHub account also contains `clarity-upscaler`, but that repository is an **upstream fork** and is not presented as the origin of Clar1ty.
+
+## Mid-2026 · N3uralia360 and VisionCraft — spatial and motion intelligence
+
+The creative branch of N3uralia matured in parallel with the operational products.
+
+**N3uralia360** focuses on immersive worlds, cultural and heritage experiences, fulldome environments, VR and spatial media.  
+**VisionCraft** focuses on professional AI motion and image-to-video workflows designed to preserve composition and artistic intent.
+
+These projects extend the same evidence-preservation philosophy into creative production.
+
+**Current products:** [n3uralia360.art](https://n3uralia360.art) · [v1sioncraft.art](https://v1sioncraft.art)
+
+## August 2026 · Pescamar / UniGrade — quality and traceability become one model
+
+**Pescamar** was created on **19 August 2026**.
+
+The work models seafood quality as an operational evidence chain: lots, receiving, grading, yield, mass balance, quality, packaging and export traceability. The aim is not just digitization but a shared canonical model from plant floor evidence to management intelligence.
+
+**Public repository:** [pescamar](https://github.com/traviscomber/pescamar)
+
+## August 2026 · ANTEMANO — from current-state intelligence to anticipation
+
+The public **ANTEMANO** repository lineage was created on **23 August 2026**.
+
+This line pushes the portfolio from observation and decision support toward anticipatory intelligence: finding weak signals early enough to create useful operational lead time before impact.
+
+**Current product:** [antemano.app](https://www.antemano.app)
+
+## 2026 · Edge Intelligence — the physical-evidence lifecycle
+
+N3uralia Edge Intelligence extends the operating-system thesis into physical environments.
+
+The lifecycle is:
+
+`Physical evidence → Inference → Observation → Human review → Dataset → Model lifecycle`
+
+The implementation is currently private R&D. It is represented publicly as a capability, not as an open-source repository.
 
 ---
 
-# The portfolio today
+# What the repository history actually contains
 
-The current N3uralia ecosystem spans four connected families:
+The account is intentionally broader than the public portfolio. It contains four distinct categories:
 
-| Family | Representative systems |
+| Category | Meaning |
 |---|---|
-| **Vertical Operating Systems** | Property Partners, Black Swan, ChileFlota, MOTIL, Kumplio, Videntia, Sur-Realista, EcoSueloLab, SegurIA, Pescamar |
-| **Decision & Agentic Intelligence** | ANTEMANO, Cort3x, ClaimIA, LexCore, MermasApp, Nano Agents, Agent Matrix |
-| **Physical Intelligence** | N3uralia Edge Intelligence, recognition and sensor/camera workflows |
-| **Creative & Spatial Intelligence** | N3uralia360, VisionCraft, Clar1ty, IMPAX Heritage |
+| **Canonical product / system** | Original N3uralia or client system with a meaningful product lineage |
+| **Earlier generation / prototype** | Work that contributed architecture, UX, workflow or domain knowledge to a later system |
+| **Private client / R&D repository** | Real engineering work that is not publicly inspectable and should not be linked as if it were public |
+| **Upstream fork / evaluation tool** | External open-source work cloned or forked for testing, integration or research; never claimed as original N3uralia authorship |
 
-The domains differ. The system design does not:
-
-**canonical evidence + domain model + rules + AI + human authority + executable workflows + traceability**.
+Examples of the last category include repositories such as `user-prompt-mcp` and `clarity-upscaler`. Their presence is part of the engineering record, but not part of the authorship claim.
 
 ---
 
-# What the 100 repositories represent
+# The architecture that emerged
 
-The repository count should not be read as “100 products.” It is the engineering record behind the products.
-
-Some repositories are current systems. Some are previous generations of those systems. Some are private client implementations. Some are prototypes that established a capability later reused elsewhere. Some are upstream open-source tools, forks or mirrors evaluated during development.
-
-For portfolio purposes I use three rules:
-
-1. **Original N3uralia work is presented as original work.**
-2. **Forks, mirrors and upstream tools are never presented as N3uralia inventions.**
-3. **The current product/domain is canonical even when its repository began under an older internal or v0 name.**
-
-That is why, for example, `v0-erpminia` is presented publicly as **MOTIL · Mining Operations OS**, and `v0-transport-certificates-automation` as **ChileFlota / DocuFleet · Transport Compliance OS**.
-
----
-
-# What changed
+Across real estate, mining, transport, privacy, security, facilities, agriculture, IP, seafood and creative systems, the same architecture kept reappearing:
 
 ```text
-2025
-AI prototypes
-    ↓
-Domain-specific applications
-    ↓
-Connected client systems
-    ↓
-Shared operational models
-
-2026
-Vertical Operating Systems
-    ↓
-Decision Intelligence
-    ↓
-Physical Intelligence
-    ↓
-Anticipatory Intelligence
+REAL WORLD / BUSINESS OPERATION
+              │
+              ▼
+        CANONICAL EVIDENCE
+              │
+              ▼
+   OPERATIONAL / DOMAIN MODEL
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+ DETERMINISTIC      AI
+    RULES        INTELLIGENCE
+       │             │
+       └──────┬──────┘
+              ▼
+          DECISION
+              │
+              ▼
+           ACTION
+              │
+              ▼
+       AUDITABLE OUTCOME
+              │
+              └──────────────► MEMORY / LEARNING
 ```
 
-The most important evolution in the work is not a framework or model choice.
-
-It is the move from building **features that use AI** to building **systems that understand how an operation works**.
+That is the real GitHub history: not a sequence of unrelated apps, but a progressively clearer architecture for building software around real operations.
 
 ---
 
-<p align="center">
-  <strong>Current thesis</strong><br/><br/>
-  Build systems that understand reality well enough to act on it — and preserve enough evidence to explain what happened afterward.
-</p>
+# Current thesis
 
-<p align="center">
-  <a href="https://n3uralia.com">N3uralia</a> ·
-  <a href="https://n3uralia360.art">N3uralia360</a> ·
-  <a href="https://v1sioncraft.art">VisionCraft</a> ·
-  <a href="https://clar1ty.art">Clar1ty</a>
-</p>
+N3uralia now builds **vertical operating systems** and intelligence layers for operations where evidence, workflows, people, physical reality and AI need to coexist safely.
+
+The core rules are stable:
+
+- Canonical data before AI.
+- Missing information is not zero.
+- Evidence remains visible.
+- Deterministic rules remain deterministic.
+- Consequential authority stays with authorized humans.
+- Automation must be observable.
+- Decisions and actions must remain traceable.
+- Production systems require release gates and rollback readiness.
+
+<p align="center"><strong>Evidence → Decision → Action → Traceability</strong></p>
+
+---
+
+## Curation status
+
+**Canonical history through 2 September 2026.**
+
+No historical commits were rewritten, backdated or deleted as part of this curation. The purpose is to make the public narrative accurate while preserving the original engineering record.
+
+Future entries should be added only when a project reaches a meaningful architectural, product or production milestone — not for every experiment or repository creation.
