@@ -30,12 +30,26 @@ Building useful software with a strong point of view.
 
 These are the builds that have taken the most time and best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
 
+### Property Partners Intelligence Platform
+
+[ppartnersgroup.app](https://ppartnersgroup.app) — a production real-estate intelligence and valuation operating system built for Property Partners Vitacura.
+
+It combines three governed operational layers:
+
+- **Market Intelligence** — live market supply, canonical property identity, Vitacura KML neighborhoods, CBRS transaction evidence, source freshness, provenance, and offer-vs-sales analysis.
+- **Professional Property Valuation** — guided valuation cases, human-selected comparables, deterministic calculations, review/return/resubmit workflow, CEO approval with MFA, immutable issued snapshots, and auditable reports.
+- **Commercial Management Control** — role-scoped metrics, alerts, tasks, operational follow-up, persisted reports, and controlled automation that stays fail-closed when business rules are not formally approved.
+
+The platform is designed around one principle: **Evidence → Decision → Action → Traceability**. AI can explain and structure decisions, but canonical data, deterministic rules, authorization, and human approval remain the operational authority.
+
+Built with Next.js, React, TypeScript, Supabase/PostgreSQL, Vercel, geospatial data, role-based authorization, RLS, and production QA gates.
+
 ### N3uralia core
 
 - `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
 - `n3uralia360.art` - immersive brand and product presentation work for the N3uralia ecosystem
 - `clarity.art` - polished brand-facing web experience focused on clarity and visual identity
-- `n3uralia-intelligence-platform-propertyparners` - property intelligence platform for market context, analysis, and decision support
+- `n3uralia-intelligence-platform-propertyparners` - production property intelligence, valuation, and commercial management platform for Property Partners Vitacura
 - `neuralianew` - new iteration of the N3uralia product direction
 
 ### Large product builds
