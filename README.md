@@ -30,6 +30,18 @@ AI is part of the operating system, not a decorative layer. Canonical data, dete
 
 ---
 
+## Build Evolution
+
+<p align="center">
+  <img src="./assets/build-history.svg" width="100%" alt="N3uralia build history from 2025 to 2026" />
+</p>
+
+The GitHub account is the engineering record behind the portfolio: original systems, earlier generations, private client work, prototypes and upstream tools evaluated during development. The curated history keeps those categories explicit and never presents a fork or mirror as original N3uralia work.
+
+<p align="center"><a href="./HISTORY.md"><strong>Read the verified build history →</strong></a></p>
+
+---
+
 ## Ecosystem
 
 | Platform | Role in the ecosystem | Link |
