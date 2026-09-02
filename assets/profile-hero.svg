@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Travis Comber — N3uralia Systems</title>
+  <desc id="desc">AI Architect building vertical operating systems, decision intelligence, physical intelligence and spatial media.</desc>
+  <rect width="1200" height="320" fill="#0B0F10"/>
+  <g stroke="#163B3B" stroke-width="1" opacity="0.85">
+    <line x1="0" y1="64" x2="1200" y2="64"/><line x1="0" y1="128" x2="1200" y2="128"/><line x1="0" y1="192" x2="1200" y2="192"/><line x1="0" y1="256" x2="1200" y2="256"/>
+    <line x1="80" y1="0" x2="80" y2="320"/><line x1="240" y1="0" x2="240" y2="320"/><line x1="400" y1="0" x2="400" y2="320"/><line x1="560" y1="0" x2="560" y2="320"/><line x1="720" y1="0" x2="720" y2="320"/><line x1="880" y1="0" x2="880" y2="320"/><line x1="1040" y1="0" x2="1040" y2="320"/>
+  </g>
+  <rect x="56" y="42" width="10" height="10" fill="#45C4B0"/>
+  <text x="82" y="52" fill="#8CA7A2" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">N3URALIA / SYSTEMS PORTFOLIO</text>
+  <text x="56" y="126" fill="#E7E9E4" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="600" letter-spacing="1">TRAVIS COMBER</text>
+  <text x="58" y="166" fill="#79C7BD" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">AI ARCHITECT · PRODUCT BUILDER · FOUNDER</text>
+  <text x="58" y="219" fill="#AAB8B5" font-family="Arial, Helvetica, sans-serif" font-size="18">Vertical operating systems for real operations.</text>
+  <text x="58" y="249" fill="#6F8581" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">EVIDENCE  →  DECISION  →  ACTION  →  TRACEABILITY</text>
+  <g transform="translate(880 52)" fill="none" stroke="#45C4B0" stroke-width="2">
+    <circle cx="120" cy="108" r="76"/><circle cx="120" cy="108" r="42"/><circle cx="120" cy="108" r="8" fill="#45C4B0" stroke="none"/>
+    <line x1="120" y1="32" x2="120" y2="184"/><line x1="44" y1="108" x2="196" y2="108"/>
+    <rect x="38" y="26" width="12" height="12" fill="#0B0F10"/><rect x="190" y="178" width="12" height="12" fill="#0B0F10"/>
+  </g>
+  <text x="925" y="286" fill="#56726D" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">N3URALIA.COM</text>
+</svg>
