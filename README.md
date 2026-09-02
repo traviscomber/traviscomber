@@ -1,96 +1,151 @@
 # Travis Comber
 
-> I build software the way some people build studios: one room for ideas, one room for systems, one room for shipping.
+AI Architect · Product Builder · Founder of [N3uralia](https://n3uralia.com)
 
-My work lives between product, engineering, and applied AI. I take scattered workflows, rough signals, and half-formed ideas, then turn them into tools that hold up in the real world.
+I design and ship applied-AI systems for real operations: decision intelligence, vertical operating systems, automation, physical intelligence and data-heavy business workflows.
 
-At [n3uralia.com](https://n3uralia.com), that becomes a factory for apps: fast delivery, practical AI, and products with a clear point of view.
+My preferred architecture is simple in principle:
 
-## Brand Promise
+**Evidence → Decision → Action → Traceability**
 
-Building useful software with a strong point of view.
-
-## Design Principles
-
-- Clarity over noise
-- Systems over features
-- Shipping over theory
-- Practical AI over hype
-- Brand with substance, not decoration
+AI is useful when it is connected to canonical data, deterministic rules, human authority and measurable outcomes — not when it is added as decoration.
 
 ## What I Build
 
-- Design AI-first products with a sharp narrative and a useful core
-- Automate repetitive business and operational work until it disappears
-- Prototype and ship web apps with React, Next.js, TypeScript, and Python
-- Build multimodal and agentic tools that connect systems, data, and people
-- Shape interfaces that feel calm, clear, and deliberate
+- AI-first operational products rather than chatbot wrappers
+- Vertical operating systems for real-estate, mining, transport, facilities and compliance
+- Decision-intelligence layers over fragmented business data
+- Human-in-the-loop automation for consequential workflows
+- Multimodal and physical-intelligence systems
+- Production web applications with Next.js, React, TypeScript, PostgreSQL/Supabase, Neon and Vercel
 
-## Signature Work
-
-These are the builds that have taken the most time and best represent the work. For the studio and product line, see [n3uralia.com](https://n3uralia.com).
+## Selected Production & Mature Systems
 
 ### Property Partners Intelligence Platform
 
-[ppartnersgroup.app](https://ppartnersgroup.app) — a production real-estate intelligence and valuation operating system built for Property Partners Vitacura.
+[ppartnersgroup.app](https://ppartnersgroup.app)
 
-It combines three governed operational layers:
+A production real-estate intelligence, professional valuation and commercial-management operating system for Property Partners Vitacura.
 
-- **Market Intelligence** — live market supply, canonical property identity, Vitacura KML neighborhoods, CBRS transaction evidence, source freshness, provenance, and offer-vs-sales analysis.
-- **Professional Property Valuation** — guided valuation cases, human-selected comparables, deterministic calculations, review/return/resubmit workflow, CEO approval with MFA, immutable issued snapshots, and auditable reports.
-- **Commercial Management Control** — role-scoped metrics, alerts, tasks, operational follow-up, persisted reports, and controlled automation that stays fail-closed when business rules are not formally approved.
+It combines:
 
-The platform is designed around one principle: **Evidence → Decision → Action → Traceability**. AI can explain and structure decisions, but canonical data, deterministic rules, authorization, and human approval remain the operational authority.
+- **Market Intelligence** — live supply, canonical property identity, Vitacura KML neighborhoods, CBRS transaction evidence, provenance and offer-vs-sales analysis.
+- **Professional Valuation** — guided cases, human-selected comparables, deterministic calculations, review/return/resubmit workflow, CEO approval with MFA, immutable issued snapshots and auditable reports.
+- **Commercial Management** — role-scoped metrics, alerts, tasks, reporting and controlled automation.
 
-Built with Next.js, React, TypeScript, Supabase/PostgreSQL, Vercel, geospatial data, role-based authorization, RLS, and production QA gates.
+The system keeps canonical data, authorization and human approval as the operational authority while AI explains, compares and structures decisions.
 
-### N3uralia core
+---
 
-- `n3uralia.com` - app factory for shipping AI products and workflow software with fast execution and practical outcomes
-- `n3uralia360.art` - immersive brand and product presentation work for the N3uralia ecosystem
-- `clarity.art` - polished brand-facing web experience focused on clarity and visual identity
-- `n3uralia-intelligence-platform-propertyparners` - production property intelligence, valuation, and commercial management platform for Property Partners Vitacura
-- `neuralianew` - new iteration of the N3uralia product direction
+### Black Swan Facility Core
 
-### Large product builds
+[Repository](https://github.com/traviscomber/black-swan-facility-core)
 
-- `cleaner2.vercel.app` / Transportes Labbe - transport operations platform for conductores, subcontractors, document flow, and compliance reporting
-- `parrrotfy` - large product build focused on real workflow delivery and product execution
-- `ecosuelolab` - client platform work centered on operational workflows and practical business use
-- `v0-erpminia` - ERP-style operations tool focused on internal workflows
-- `v0-transport-certificates-automation` - automation for transport certificate handling and repeatable admin work
-- `v0-seguria-website` - client-facing website and landing-page build
-- `black-swan-facility-core` - core system for facility and operations workflows
+An internal operating system for a complex facility spanning hospitality, people, assets, inventory, procurement, maintenance, finance, events and administration.
 
-### AI, agents, and automation
+The platform is built around shared canonical objects and operational chains instead of disconnected modules. Its documented production baseline includes role/capability authorization, RLS, operational jobs, booking integrity, asset workflows and release/rollback runbooks.
 
-- `hermes-agent` - adaptive agent framework that scales with the work it receives
-- `agency-agents` - multi-agent toolkit for specialized AI roles and coordinated workflows
-- `open-code-review` - hybrid code review system combining deterministic checks with LLM assistance
-- `OpenMemory` - long-term memory layer for AI systems in a self-hosted setup
-- `storytime-slackbot` - Slack bot that turns collaborative input into stories
-- `langrepl` - terminal chat experience built on LangChain, LangGraph, Prompt Toolkit, and Rich
+---
 
-### Visual and experimental work
+### LABBE — Transport Compliance Intelligence
 
-- `0-visual-compare-chile` - visual comparison and search workflow for Chile
-- `Imgenhnancer` - image enhancement tooling
-- `cog-stable-diffusion` - Stable Diffusion model tooling
-- `FlowGenNoise` - generative workflow and signal exploration
-- `End-to-End-Movie-Recommendation-System` - movie recommendation system notebook and pipeline
-- `aileen` - codegen platform provisioning apps with Neon databases
+[Repository](https://github.com/traviscomber/v0-transport-certificates-automation)
 
-## How I Work
+An evidence-driven transport compliance operating system connecting transport companies, subcontractors, drivers, vehicles, documentary evidence and external verification.
 
-- Fast iteration without losing the production mindset
-- Practical architecture over hype
-- Strong feedback loops and measurable progress
-- Clean execution with room for experimentation
+Key areas include document lifecycle management, high-volume PRT vehicle evidence, resumable ingestion, OCR/document intelligence, SII verification, reconciliation, human review and an operational control plane that validates downstream state rather than trusting HTTP success alone.
+
+---
+
+### MOTIL — Mining Operations ERP
+
+[Repository](https://github.com/traviscomber/v0-erpminia)
+
+A vertical ERP for mining operations integrating production, maintenance, warehouse/inventory, HSE compliance, documents, purchasing, finance, reporting and operational intelligence.
+
+The system uses a role-based operational model with PostgreSQL/Supabase, real-time data surfaces, auditable workflows and domain-specific dashboards rather than a generic ERP shell.
+
+---
+
+### Kumplio
+
+[kumplio.app](https://www.kumplio.app/es) · [Repository](https://github.com/traviscomber/kumplio)
+
+A privacy-compliance operating system focused initially on Chile's Law 21.719.
+
+Kumplio helps organizations discover where personal data is used, identify gaps, connect them to applicable obligations and convert findings into executable work with owners, deadlines, required evidence and human review.
+
+The product is designed to produce an auditable compliance process — not just a one-time diagnostic report.
+
+---
+
+### Videntia
+
+[videntia.app](https://videntia.app) · [Repository](https://github.com/traviscomber/0-visual-compare-chile)
+
+Decision intelligence for industrial property.
+
+Videntia connects trademark evaluation, patent/INAPI research, competitive monitoring, case intelligence, governance, collaboration, predictive risk, automation and executive decision briefs in one traceable workflow.
+
+Deterministic governance and authorization remain separate from model judgment, and AI operates only over authorized context.
+
+## Active Product R&D
+
+### ANTEMANO
+
+[antemano.app](https://www.antemano.app) · [Repository](https://github.com/traviscomber/antes)
+
+N3uralia's anticipatory-intelligence platform for complex operations.
+
+ANTEMANO is being built to connect internal and external signals, model operational dependencies and turn emerging events into useful lead time: what may happen, what it can affect, when it matters, what evidence supports it and what options remain before impact.
+
+Its target loop is:
+
+**Signal → Event → Impact → Decision → Outcome → Memory**
+
+---
+
+### N3uralia Edge Intelligence
+
+A physical-intelligence platform for cameras, edge devices, visual evidence, machine inference and operational knowledge.
+
+The implemented foundation covers organization/site/edge/device topology, event and observation ledgers, human review, annotation, golden datasets, model registry and evaluation metrics. The next stage connects real camera ingestion and detector runtime into the same measurable feedback loop.
+
+---
+
+### Clar1ty Studio
+
+[Repository](https://github.com/traviscomber/clarity-upscaler)
+
+A professional image-enhancement and upscaling product focused on explainable processing, before/after comparison and a clean creative workflow around the image rather than around AI controls.
+
+---
+
+### Pescamar · UniGrade
+
+[Repository](https://github.com/traviscomber/pescamar)
+
+A specialized seafood-quality prototype for Chilean sea urchin operations: artisan-fisher deliveries, net-weight and mass-balance control, lot traceability, gonad yield and color-quality references for export workflows.
+
+It is intentionally presented as an MVP/prototype rather than a finished production system.
+
+## Engineering Principles
+
+- Canonical data before AI
+- Missing information is not zero
+- Human authority for consequential decisions
+- Evidence and provenance remain visible
+- Authorization belongs on the server and database, not only in the UI
+- Automation must be observable, recoverable and auditable
+- Production quality includes release gates, runtime verification and rollback readiness
+- Good UI should reduce cognitive load rather than advertise technical complexity
+
+## Portfolio Note
+
+This GitHub account also contains experiments, research snapshots, upstream mirrors and forks used for evaluation. They are intentionally **not** presented above as original N3uralia products. The projects in this README are the systems that best represent my own current product and engineering work.
 
 ## Current Focus
 
-More agentic systems, sharper product surfaces, and better automation for real workflows through [n3uralia.com](https://n3uralia.com).
+Decision intelligence, physical intelligence and vertical operating systems that connect real evidence to operational action.
 
-## Contact
-
-- GitHub: [traviscomber](https://github.com/traviscomber)
+[N3uralia](https://n3uralia.com) · [GitHub](https://github.com/traviscomber)
