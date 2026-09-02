@@ -36,6 +36,7 @@ The portfolio is organized by **operating system / intelligence domain**, not by
 | **EcoSueloLab** | Agricultural Intelligence OS | Field evidence → actionable decisions | Active |
 | **Despega Tu Carrera** | Career Intelligence OS | Diagnosis → plan → progress | Active |
 | **Cort3x** | Innovation Intelligence OS | Research → opportunity → execution | Active |
+| **Yagán PMS** | Hospitality OS Foundation | Property → unit → guest → reservation | Foundation |
 | **ANTEMANO** | Anticipatory Intelligence OS | Signal → impact → lead time | R&D |
 | **N3uralia Edge Intelligence** | Physical Intelligence OS | Evidence → inference → learning loop | R&D |
 | **ClaimIA** | Insurance Claims OS | Evidence → review → decision support | R&D |
