@@ -214,6 +214,58 @@ The current N3uralia project catalog also includes:
 
 See the current project catalog at [n3uralia.com/en/projects](https://www.n3uralia.com/en/projects).
 
+<details>
+<summary><strong>Full N3uralia app / product index</strong></summary>
+
+### Core brands & creative verticals
+
+- N3uralia
+- N3uralia360
+- VisionCraft
+
+### Operational intelligence & enterprise systems
+
+- Property Partners Intelligence Platform
+- Black Swan Facility Core
+- LABBE / DocuFleet
+- MOTIL / La Patagua
+- Sur-Realista
+- EcoSueloLab
+- SegurIA
+- Parrotfy Connector
+- Botel / LumiStay
+- Pescamar / UniGrade
+
+### AI products & decision systems
+
+- Kumplio
+- Videntia
+- ANTEMANO
+- N3uralia Edge Intelligence / EdgeVision
+- ClaimIA
+- N3uLexCore / LexCore
+- Sent1nels
+- Clar1ty
+- Cort3x
+- PR1SM
+- Despega Tu Carrera
+- MermasApp
+- N3uralia Nano Agents
+- N3uralia Agent Matrix
+
+### Wider N3uralia portfolio / earlier product lines
+
+These names belong to the broader N3uralia portfolio but are not all presented above as production-grade systems because their current public documentation or release state varies.
+
+- M3NTIS
+- 1NCUBATOR
+- DoubleC
+- ScanGlobal
+- IMPAX Heritage
+- Walnuss
+
+</details>
+
 ## What I Build
 
 - AI-first operational products rather than chatbot wrappers
