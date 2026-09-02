@@ -54,7 +54,7 @@ This was an early example of the pattern that would later become standard across
 
 ## September 2025 · Compliance becomes operational
 
-The repository that evolved into **LABBE / ChileFlota** was created on **29 September 2025**.
+The system that evolved into **ChileFlota / LABBE** was created on **29 September 2025**.
 
 What could have been a document-reminder application became a transport compliance operating system connecting companies, subcontractors, drivers, vehicles, evidence, verification, document intelligence and operational follow-up.
 
@@ -76,15 +76,13 @@ Black Swan became one of the clearest transitions from “application” thinkin
 
 `Reservation · Asset · Purchase · Work · Finance`
 
-**Public repository:** [black-swan-facility-core](https://github.com/traviscomber/black-swan-facility-core)
-
 ---
 
 # 2026 — Vertical operating systems become the core thesis
 
 ## May 2026 · Videntia — intellectual property as an intelligence system
 
-The public repository behind the current **Videntia** lineage was created on **11 May 2026**.
+The current **Videntia** lineage was created on **11 May 2026**.
 
 The project evolved from visual comparison and trademark-oriented tooling into an industrial-property intelligence system spanning trademarks, patents, technologies, monitoring, research, cases, governance and decision support.
 
@@ -94,22 +92,19 @@ The important architectural shift was to treat intellectual property as a contin
 
 ## May 2026 · MOTIL — mining operations, not a generic ERP
 
-The repository behind **MOTIL** was created on **25 May 2026**.
+The system behind **MOTIL** was created on **25 May 2026**.
 
 MOTIL models the mining operation itself: production, maintenance, warehouse, HSE, documents, purchasing, finance and management intelligence. Its workflows connect operational alerts to work orders, resources, evidence and management KPIs.
 
 `Alert → Work Order → Resource → HSE → Evidence → KPI`
 
-**Current product:** [motil.app](https://motil.app)  
-**Public repository:** [v0-erpminia](https://github.com/traviscomber/v0-erpminia)
+**Current product:** [motil.app](https://motil.app)
 
 ## May 2026 · SegurIA — physical infrastructure becomes operational intelligence
 
-The current public SegurIA web lineage was created on **27 May 2026**.
+The current SegurIA lineage was created on **27 May 2026**.
 
 SegurIA applies the same systems pattern to security: cameras, sensors and access-control infrastructure become evidence sources feeding an operational security layer rather than remaining disconnected devices.
-
-**Public repository:** [v0-seguria-website](https://github.com/traviscomber/v0-seguria-website)
 
 ## June 2026 · Kumplio — compliance becomes executable work
 
@@ -119,8 +114,7 @@ The product turns privacy and regulatory obligations into accountable operationa
 
 `Discover → Gap → Action → Evidence → Review`
 
-**Current product:** [kumplio.app](https://www.kumplio.app/es)  
-**Public repository:** [kumplio](https://github.com/traviscomber/kumplio)
+**Current product:** [kumplio.app](https://www.kumplio.app/es)
 
 ## Mid-2026 · Property Partners — evidence-driven real-estate intelligence
 
@@ -138,7 +132,7 @@ The system keeps AI subordinate to evidence, deterministic rules, authorization 
 
 **Current product:** [ppartnersgroup.app](https://ppartnersgroup.app)
 
-The implementation repository remains private because it contains client-specific engineering and operational context.
+The implementation remains private because it contains client-specific engineering and operational context.
 
 ## Mid-2026 · Clar1ty — preservation-first visual intelligence
 
@@ -148,7 +142,7 @@ The product principle is the same as in the operational systems: AI may infer an
 
 **Current product:** [clar1ty.art](https://clar1ty.art)
 
-The GitHub account also contains `clarity-upscaler`, but that repository is an **upstream fork** and is not presented as the origin of Clar1ty.
+The account also contains upstream image tooling used during development; those repositories are evaluation inputs, not presented as the origin of Clar1ty.
 
 ## Mid-2026 · N3uralia360 and VisionCraft — spatial and motion intelligence
 
@@ -167,11 +161,9 @@ These projects extend the same evidence-preservation philosophy into creative pr
 
 The work models seafood quality as an operational evidence chain: lots, receiving, grading, yield, mass balance, quality, packaging and export traceability. The aim is not just digitization but a shared canonical model from plant floor evidence to management intelligence.
 
-**Public repository:** [pescamar](https://github.com/traviscomber/pescamar)
-
 ## August 2026 · ANTEMANO — from current-state intelligence to anticipation
 
-The public **ANTEMANO** repository lineage was created on **23 August 2026**.
+The **ANTEMANO** lineage was created on **23 August 2026**.
 
 This line pushes the portfolio from observation and decision support toward anticipatory intelligence: finding weak signals early enough to create useful operational lead time before impact.
 
@@ -185,11 +177,11 @@ The lifecycle is:
 
 `Physical evidence → Inference → Observation → Human review → Dataset → Model lifecycle`
 
-The implementation is currently private R&D. It is represented publicly as a capability, not as an open-source repository.
+The implementation is currently private R&D. It is represented publicly as a capability rather than exposing implementation details from the profile.
 
 ---
 
-# What the repository history actually contains
+# What the engineering history actually contains
 
 The account is intentionally broader than the public portfolio. It contains four distinct categories:
 
@@ -197,10 +189,10 @@ The account is intentionally broader than the public portfolio. It contains four
 |---|---|
 | **Canonical product / system** | Original N3uralia or client system with a meaningful product lineage |
 | **Earlier generation / prototype** | Work that contributed architecture, UX, workflow or domain knowledge to a later system |
-| **Private client / R&D repository** | Real engineering work that is not publicly inspectable and should not be linked as if it were public |
-| **Upstream fork / evaluation tool** | External open-source work cloned or forked for testing, integration or research; never claimed as original N3uralia authorship |
+| **Private client / R&D work** | Real engineering that is not publicly inspectable and should not be exposed as a portfolio link |
+| **Upstream fork / evaluation tool** | External open-source work used for testing, integration or research; never claimed as original N3uralia authorship |
 
-Examples of the last category include repositories such as `user-prompt-mcp` and `clarity-upscaler`. Their presence is part of the engineering record, but not part of the authorship claim.
+The account preserves these artifacts because they are part of the engineering process. The portfolio only elevates the systems that represent original, meaningful work.
 
 ---
 
