@@ -1,297 +1,283 @@
-# Travis Comber
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Travis Comber — N3uralia Systems Portfolio" />
+</p>
 
-AI Architect · Product Builder · Founder of [N3uralia](https://n3uralia.com)
+<p align="center">
+  <a href="https://n3uralia.com"><strong>N3uralia</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://n3uralia360.art"><strong>N3uralia360</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://v1sioncraft.art"><strong>VisionCraft</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://clar1ty.art"><strong>Clar1ty</strong></a>
+</p>
 
-I design and ship applied-AI systems for real operations: decision intelligence, vertical operating systems, automation, physical intelligence, spatial media and data-heavy business workflows.
+<p align="center">
+  <code>VERTICAL OPERATING SYSTEMS</code>&nbsp;&nbsp;
+  <code>DECISION INTELLIGENCE</code>&nbsp;&nbsp;
+  <code>PHYSICAL INTELLIGENCE</code>&nbsp;&nbsp;
+  <code>SPATIAL MEDIA</code>
+</p>
 
-My preferred architecture is simple in principle:
+---
 
-**Evidence → Decision → Action → Traceability**
+## N3uralia
 
-AI is useful when it is connected to canonical data, deterministic rules, human authority and measurable outcomes — not when it is added as decoration.
+I design and build **vertical operating systems for real operations**.
 
-## N3uralia Ecosystem
+The pattern is consistent across industries: connect fragmented data, workflows, documents, people and machine intelligence into one governed operating layer that can observe reality, support decisions, execute work and preserve evidence.
 
-N3uralia is not a single application. It is an engineering and creative ecosystem with three primary verticals and a growing portfolio of operational products.
+<p align="center"><strong>Evidence → Decision → Action → Traceability</strong></p>
 
-| Vertical | Focus | Link |
+AI is part of the operating system, not a decorative layer. Canonical data, deterministic rules, permissions, human authority and measurable outcomes remain the source of operational truth.
+
+---
+
+## Ecosystem
+
+| Platform | Role in the ecosystem | Link |
 |---|---|---|
-| **N3uralia** | Operational intelligence, workflow automation and production AI systems for complex businesses | [n3uralia.com](https://n3uralia.com) |
-| **N3uralia360** | Immersive worlds, fulldome shows, cultural environments, VR, spatial media and commissioned experiences | [n3uralia360.art](https://n3uralia360.art) |
-| **VisionCraft** | Professional AI video generation, image-to-video, structure-preserving motion and fulldome-ready creative workflows | [v1sioncraft.art](https://v1sioncraft.art) |
+| **N3uralia** | Engineering studio for vertical operating systems, operational intelligence and production AI | [n3uralia.com](https://n3uralia.com) |
+| **N3uralia360** | Immersive worlds, fulldome, VR, heritage and spatial-media experiences | [n3uralia360.art](https://n3uralia360.art) |
+| **VisionCraft** | AI motion and video workflows, image-to-video and structure-preserving animation | [v1sioncraft.art](https://v1sioncraft.art) |
+| **Clar1ty** | Visual-intelligence system for professional enhancement, restoration and preservation-first imaging | [clar1ty.art](https://clar1ty.art) |
 
-### N3uralia — Operational Intelligence
+---
 
-N3uralia builds systems that connect fragmented data, documents, workflows and decisions. The core practice is organized around:
+# Systems Portfolio
 
-- **Operational Intelligence** — unify data and context so teams can see what matters.
-- **Workflow Automation** — automate repeatable work while preserving governance and ownership.
-- **Production AI Systems** — build secure, observable AI inside real operational processes.
+### Executive map
 
-Current sector work spans real estate, mining, manufacturing, transport, hospitality, compliance, cybersecurity, agriculture and regulated services.
+| System | Vertical operating system | Core outcome | Stage | Surface |
+|---|---|---|---|---|
+| **Property Partners Intelligence** | Real Estate Intelligence OS | Market intelligence + professional valuation + commercial control | **Production** | [ppartnersgroup.app](https://ppartnersgroup.app) |
+| **Black Swan Facility Core** | Facility & Hospitality OS | One operating layer for hospitality, people, assets, inventory, procurement, maintenance, finance and events | **Mature** | [blackswn.app](https://blackswn.app) |
+| **LABBE / DocuFleet** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [Repository](https://github.com/traviscomber/v0-transport-certificates-automation) |
+| **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [Repository](https://github.com/traviscomber/v0-erpminia) |
+| **Kumplio** | Privacy Compliance OS | Turn regulatory gaps into accountable work, evidence and auditable closure | **Active** | [kumplio.app](https://www.kumplio.app/es) |
+| **Videntia** | Industrial Property Intelligence OS | Trademarks, patents, monitoring, cases, governance and decision intelligence | **Active** | [videntia.app](https://videntia.app) |
+| **Clar1ty** | Visual Intelligence OS | Analyze, enhance and restore images while preserving identity and visual structure | **Active** | [clar1ty.art](https://clar1ty.art) |
+| **Sent1nels** | Cybersecurity Operations OS | Detection, incidents, response, playbooks and security intelligence | **Active** | [sent1nels.com](https://sent1nels.com) |
+| **Sur-Realista** | Territorial Real Estate OS | Geospatial property operations, CRM, tasks, communications and portfolio intelligence | **Active** | — |
+| **EcoSueloLab** | Agricultural Intelligence OS | Satellite/field intelligence translated into actionable farm decisions | **Active** | — |
+| **SegurIA** | Operational Security OS | Cameras, sensors and access-control infrastructure converted into actionable security operations | **Active** | — |
+| **Despega Tu Carrera** | Career Intelligence OS | Personal diagnosis, skills, AI coaching and an executable 30-day development route | **Active** | [despegatucarrera.com](https://despegatucarrera.com) |
+| **Cort3x** | Innovation Intelligence OS | Research, opportunity mapping, structured strategy and execution | **Active** | [cort3x.app](https://cort3x.app) |
+| **ANTEMANO** | Anticipatory Intelligence OS | Convert weak signals into useful lead time before operational impact | **R&D** | [antemano.app](https://www.antemano.app) |
+| **N3uralia Edge Intelligence** | Physical Intelligence OS | Physical evidence → inference → observation → review → dataset → model lifecycle | **R&D** | [Repository](https://github.com/traviscomber/edgevision) |
+| **ClaimIA** | Insurance Claims OS | Claims, OCR, evidence, fraud signals, review and decision support | **R&D** | [Repository](https://github.com/traviscomber/claimAI-5s) |
+| **N3uLexCore / LexCore** | Legal Intelligence OS | Contract ingestion, clause intelligence, risks and review workflows | **R&D** | [Repository](https://github.com/traviscomber/lexcore) |
+| **Pescamar · UniGrade** | Seafood Quality OS | Lot evidence, mass balance, quality, yield and export traceability | **MVP** | [Repository](https://github.com/traviscomber/pescamar) |
+| **MermasApp** | Manufacturing Efficiency OS | Waste visibility, financial impact, alerts and explainable operational intelligence | **Product** | [N3uralia Products](https://www.n3uralia.com/en/products) |
+| **PR1SM** | Content Intelligence OS | AI-assisted content operations and controlled production workflows | **Prototype** | [Repository](https://github.com/traviscomber/pr1sm) |
+| **Botel / LumiStay** | Hospitality OS | Hotel operations and management-control exploration | **Prototype** | [Repository](https://github.com/traviscomber/botelAIhotel) |
+| **Parrotfy Agent Layer** | Agentic ERP Operations | Execute supported ERP work from natural-language interfaces such as WhatsApp | **Active** | — |
+| **N3uralia Nano Agents** | Agentic Operations Layer | Specialized agents for narrow operational responsibilities | **Platform** | [N3uralia Products](https://www.n3uralia.com/en/products) |
+| **Agent Matrix** | Multi-Agent Control Plane | Observe, coordinate and govern agentic systems | **Platform** | [N3uralia Products](https://www.n3uralia.com/en/products) |
 
-### N3uralia360 — Immersive & Spatial Media
+---
 
-N3uralia360 is the immersive-media vertical: full-dome environments, cinematic loops, cultural and heritage experiences, VR environments, performance visuals and spatial content.
+# Flagship Operating Systems
 
-The work sits between generative media, world building, cultural storytelling and large-format projection.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### VisionCraft — AI Motion & Video
+### Property Partners Intelligence
 
-VisionCraft is the motion-generation vertical. It focuses on professional AI video generation that preserves the source composition and artistic intent while adding cinematic motion.
+**Real Estate Intelligence OS**
 
-Its workflows include image-to-video, multiple AI models, structure-preserving animation, creative galleries and fulldome projection output.
+A production operating system connecting market supply, canonical property identity, geospatial neighborhoods, CBRS evidence, professional valuation and commercial management.
 
-## App & Product Portfolio
+`Market → Comparables → Decision → Approval → Issued Evidence`
 
-The portfolio below represents the N3uralia products and operational systems currently visible through our public products, deployed applications or connected repositories. Experimental forks and third-party mirrors are intentionally excluded.
+[Open product](https://ppartnersgroup.app)
 
-### Production / Mature Systems
+</td>
+<td width="50%" valign="top">
 
-#### Property Partners Intelligence Platform
+### Black Swan Facility Core
 
-[ppartnersgroup.app](https://ppartnersgroup.app)
+**Facility & Hospitality OS**
 
-Production real-estate intelligence, professional valuation and commercial-management operating system for Property Partners Vitacura.
+A shared operational core for bookings, people, assets, inventory, procurement, maintenance, finance, events and administration — built around canonical objects instead of disconnected modules.
 
-Market intelligence, canonical property identity, KML neighborhoods, CBRS transaction evidence, professional valuation workflows, MFA approvals, immutable snapshots, role-scoped management and auditable reporting.
+`Reservation · Asset · Purchase · Work · Finance`
 
-#### Black Swan Facility Core
+[Open repository](https://github.com/traviscomber/black-swan-facility-core)
 
-[Repository](https://github.com/traviscomber/black-swan-facility-core)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Operating system for hospitality and facility operations spanning bookings, people, assets, inventory, procurement, maintenance, finance, events and administration.
+### LABBE / DocuFleet
 
-Built around shared canonical objects, role/capability authorization, RLS, operational jobs, integrity checks and release/rollback runbooks.
+**Transport Compliance OS**
 
-#### LABBE / DocuFleet
+Evidence-driven operations for transportistas, subcontractors, drivers, vehicles and documentary compliance. Includes high-volume PRT evidence, OCR, verification, reconciliation and operational control.
 
-[Repository](https://github.com/traviscomber/v0-transport-certificates-automation)
+`Evidence → Validation → Compliance → Action`
 
-Evidence-driven transport compliance system connecting transport companies, subcontractors, drivers, vehicles, documentary evidence and external verification.
+[Open repository](https://github.com/traviscomber/v0-transport-certificates-automation)
 
-Includes document lifecycle management, large PRT datasets, resumable ingestion, OCR/document intelligence, SII verification, reconciliation, alerts and human review.
+</td>
+<td width="50%" valign="top">
 
-#### MOTIL — Mining Operations ERP
+### MOTIL
 
-[Repository](https://github.com/traviscomber/v0-erpminia)
+**Mining Operations OS**
 
-Vertical mining ERP connecting production, maintenance, warehouse/inventory, HSE, documents, purchasing, finance, reporting and operational intelligence.
+Not a generic ERP. MOTIL models the mining operation itself: production, maintenance, warehouse, HSE, documents, purchasing, finance and management intelligence in one traceable system.
 
-#### Kumplio
+`Alert → Work Order → Resource → HSE → Evidence → KPI`
 
-[kumplio.app](https://www.kumplio.app/es) · [Repository](https://github.com/traviscomber/kumplio)
+[Open repository](https://github.com/traviscomber/v0-erpminia)
 
-Privacy and regulatory-compliance operating system focused initially on Chile's Law 21.719.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Maps personal-data processing, detects gaps and converts them into executable actions with owners, deadlines, evidence and human review.
+### Kumplio
 
-#### Videntia
+**Privacy Compliance OS**
 
-[videntia.app](https://videntia.app) · [Repository](https://github.com/traviscomber/0-visual-compare-chile)
+Transforms regulatory obligations and gaps into an executable operating model with owners, deadlines, evidence, controls and human review.
 
-Decision intelligence for industrial property: trademarks, patents, competitive monitoring, case intelligence, governance, predictive risk, automation and executive decision briefs.
+`Discover → Gap → Action → Evidence → Review`
 
-#### Clar1ty
+[Open product](https://www.kumplio.app/es)
 
-[clar1ty.art](https://clar1ty.art) · [Repository](https://github.com/traviscomber/clarity-upscaler)
+</td>
+<td width="50%" valign="top">
 
-Preservation-first AI image enhancement for portraits, heritage photographs, archives and creative assets, with special care for Asian faces and cultural visual detail.
+### Videntia
 
-#### Sent1nels
+**Industrial Property Intelligence OS**
 
-[sent1nels.com](https://sent1nels.com) · [Repository](https://github.com/traviscomber/n3uraliasecsuite)
+Connects trademarks, patents, research, competitive monitoring, cases, governance, risk and decision briefs in one traceable intellectual-property workflow.
 
-AI-powered cybersecurity platform for threat detection, incident response, monitoring, playbooks and compliance-oriented security operations.
+`Research → Signal → Case → Governance → Decision`
 
-#### Despega Tu Carrera
+[Open product](https://videntia.app)
 
-[despegatucarrera.com](https://despegatucarrera.com)
+</td>
+</tr>
+</table>
 
-AI-first personal-development platform combining profile diagnosis, a 30-day route, skills training and continuous strategic context through an AI coach.
+---
 
-#### Cort3x
+# Creative Intelligence
 
-[cort3x.app](https://cort3x.app) · [Repository](https://github.com/traviscomber/cort3x)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-AI research and innovation accelerator combining market intelligence, opportunity mapping, structured strategy and expert-guided execution.
+### N3uralia360
 
-### N3uralia Reusable Product Systems
+**Immersive & Spatial Media**
 
-These are reusable product patterns exposed through the N3uralia product catalog.
+Fulldome environments, cultural and heritage experiences, VR, spatial storytelling and large-format generative media.
 
-| Product | What it does |
-|---|---|
-| **MermasApp** | Waste-reduction intelligence for Chilean food plants with real-time CLP impact, explainable AI and WhatsApp alerts |
-| **Motil** | Mining operations platform connecting production, maintenance, warehouse, HSE, documents and management |
-| **DocuFleet** | Intelligent document-compliance layer for fleets, drivers and subcontractors |
-| **Clar1ty** | Image enhancement and cultural/heritage restoration |
-| **N3uralia Nano Agents** | Specialized AI-agent platform for operational and domain-specific workflows |
-| **Agent Matrix** | Visual control layer for observing and coordinating multi-agent systems in production |
+[n3uralia360.art](https://n3uralia360.art)
 
-See the current catalog at [n3uralia.com/en/products](https://www.n3uralia.com/en/products).
+</td>
+<td width="33%" valign="top">
 
-## Client & Vertical Systems
+### VisionCraft
 
-### Sur-Realista
+**AI Motion System**
 
-Territorial and real-estate operations platform combining geospatial/KMZ property management, CRM, communications, tasks, documents and operational workflows.
+Professional image-to-video and motion workflows designed to preserve composition, structure and artistic intent.
 
-### EcoSueloLab
+[v1sioncraft.art](https://v1sioncraft.art)
 
-Agricultural intelligence workflow that brings satellite and field data to farmers through a WhatsApp AI interface for irrigation, nutrition and crop decisions.
+</td>
+<td width="33%" valign="top">
 
-### SegurIA
+### Clar1ty
 
-Operational-security platform connecting cameras, sensors and access-control infrastructure into an intelligence and response layer for fields, properties and hospitality operations.
+**Visual Intelligence OS**
 
-### Parrotfy Connector
+Professional enhancement and restoration where the source image stays authoritative: identity, faces, textiles, artifacts and cultural detail are preserved rather than reinvented.
 
-Agentic WhatsApp integration that allows teams to query and execute supported ERP workflows through natural language instead of navigating the full application manually.
+[clar1ty.art](https://clar1ty.art)
 
-## Active Product R&D
+</td>
+</tr>
+</table>
 
-### ANTEMANO
+---
 
-[antemano.app](https://www.antemano.app) · [Repository](https://github.com/traviscomber/antes)
+# The N3uralia Pattern
 
-Anticipatory-intelligence platform for complex operations.
+```text
+REAL WORLD / BUSINESS OPERATION
+              │
+              ▼
+        CANONICAL EVIDENCE
+              │
+              ▼
+   OPERATIONAL / DOMAIN MODEL
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+ DETERMINISTIC      AI
+    RULES        INTELLIGENCE
+       │             │
+       └──────┬──────┘
+              ▼
+          DECISION
+              │
+              ▼
+           ACTION
+              │
+              ▼
+       AUDITABLE OUTCOME
+              │
+              └──────────────► MEMORY / LEARNING
+```
 
-**Signal → Event → Impact → Decision → Outcome → Memory**
+This is why most N3uralia products are better understood as **operating systems for a vertical** rather than dashboards, apps or isolated AI features.
 
-Designed to connect internal and external signals, model operational dependencies and create useful lead time before an event becomes an operational problem.
+---
 
-### N3uralia Edge Intelligence
-
-[Repository](https://github.com/traviscomber/edgevision)
-
-Physical-intelligence platform for cameras, edge devices, visual evidence, machine inference and operational knowledge.
-
-Implemented foundations include organization/site/edge/device topology, event and observation ledgers, review workflows, annotation, golden datasets, model registry and evaluation metrics.
-
-### ClaimIA
-
-[Repository](https://github.com/traviscomber/claimAI-5s)
-
-Insurance-claims intelligence platform for the Chilean market: claims workflow, document processing/OCR, risk analysis, fraud signals and role-based review.
-
-### N3uLexCore / LexCore
-
-[Repository](https://github.com/traviscomber/lexcore)
-
-AI-assisted contract review for Chilean legal workflows, including document upload, clause extraction, risk scoring, flagged issues and recommendations with user-isolated data.
-
-### Pescamar · UniGrade
-
-[Repository](https://github.com/traviscomber/pescamar)
-
-MVP for seafood-quality and traceability workflows around Chilean sea urchin: fisherman deliveries, net weight, mass balance, gonad yield, lot evidence and color-quality references.
-
-### PR1SM
-
-[Repository](https://github.com/traviscomber/pr1sm)
-
-AI content-engine and operational-content dashboard prototype.
-
-### Botel / LumiStay
-
-[Repository](https://github.com/traviscomber/botelAIhotel)
-
-Hospitality operations and hotel-dashboard product exploration.
-
-## Representative N3uralia Projects
-
-The current N3uralia project catalog also includes:
-
-1. **LABBE** — document compliance for transport fleets.
-2. **SegurIA** — AI-powered operational security.
-3. **Sur-Realista** — territorial operations and real-estate intelligence.
-4. **La Patagua / MOTIL** — mining operations.
-5. **EcoSueloLab** — satellite and agricultural intelligence via WhatsApp.
-6. **Despega Tu Carrera** — AI-first personal development.
-7. **Black Swan FS** — fleet, subcontractor and facility operations.
-8. **Parrotfy** — WhatsApp-to-ERP operational integration.
-
-See the current project catalog at [n3uralia.com/en/projects](https://www.n3uralia.com/en/projects).
+## Wider N3uralia Portfolio
 
 <details>
-<summary><strong>Full N3uralia app / product index</strong></summary>
+<summary><strong>Open full product / project index</strong></summary>
 
-### Core brands & creative verticals
+### Operational systems
 
-- N3uralia
-- N3uralia360
-- VisionCraft
+Property Partners · Black Swan Facility Core · LABBE / DocuFleet · MOTIL · Kumplio · Videntia · Sur-Realista · EcoSueloLab · SegurIA · Parrotfy · Pescamar / UniGrade · Botel / LumiStay
 
-### Operational intelligence & enterprise systems
+### Intelligence systems
 
-- Property Partners Intelligence Platform
-- Black Swan Facility Core
-- LABBE / DocuFleet
-- MOTIL / La Patagua
-- Sur-Realista
-- EcoSueloLab
-- SegurIA
-- Parrotfy Connector
-- Botel / LumiStay
-- Pescamar / UniGrade
+ANTEMANO · Edge Intelligence · ClaimIA · N3uLexCore · Sent1nels · Cort3x · PR1SM · MermasApp · Nano Agents · Agent Matrix
 
-### AI products & decision systems
+### Creative systems
 
-- Kumplio
-- Videntia
-- ANTEMANO
-- N3uralia Edge Intelligence / EdgeVision
-- ClaimIA
-- N3uLexCore / LexCore
-- Sent1nels
-- Clar1ty
-- Cort3x
-- PR1SM
-- Despega Tu Carrera
-- MermasApp
-- N3uralia Nano Agents
-- N3uralia Agent Matrix
+N3uralia360 · VisionCraft · Clar1ty · IMPAX Heritage
 
-### Wider N3uralia portfolio / earlier product lines
+### Wider / earlier N3uralia lines
 
-These names belong to the broader N3uralia portfolio but are not all presented above as production-grade systems because their current public documentation or release state varies.
-
-- M3NTIS
-- 1NCUBATOR
-- DoubleC
-- ScanGlobal
-- IMPAX Heritage
-- Walnuss
+M3NTIS · 1NCUBATOR · DoubleC · ScanGlobal · Walnuss
 
 </details>
 
-## What I Build
-
-- AI-first operational products rather than chatbot wrappers
-- Vertical operating systems for real estate, mining, transport, facilities and compliance
-- Decision-intelligence layers over fragmented business data
-- Human-in-the-loop automation for consequential workflows
-- Multimodal, physical-intelligence and spatial-media systems
-- Production web applications with Next.js, React, TypeScript, PostgreSQL/Supabase, Neon and Vercel
+---
 
 ## Engineering Principles
 
-- Canonical data before AI
-- Missing information is not zero
-- Human authority for consequential decisions
-- Evidence and provenance remain visible
-- Authorization belongs on the server and database, not only in the UI
-- Automation must be observable, recoverable and auditable
-- Production quality includes release gates, runtime verification and rollback readiness
-- Good UI should reduce cognitive load rather than advertise technical complexity
+`Canonical data before AI` · `Missing information is not zero` · `Human authority for consequential decisions` · `Evidence remains visible` · `Server-side authorization` · `Observable automation` · `Release gates` · `Rollback readiness`
 
-## Portfolio Note
+---
 
-This GitHub account also contains experiments, research snapshots, upstream mirrors and forks used for evaluation. They are intentionally **not** presented as original N3uralia products. The projects above are the systems that best represent my current product, engineering and creative work.
+<p align="center">
+  <strong>Building systems that understand reality well enough to act on it.</strong>
+</p>
 
-## Current Focus
-
-Decision intelligence, physical intelligence, immersive media and vertical operating systems that connect real evidence to operational action.
-
-[N3uralia](https://n3uralia.com) · [N3uralia360](https://n3uralia360.art) · [VisionCraft](https://v1sioncraft.art) · [GitHub](https://github.com/traviscomber)
+<p align="center">
+  <a href="https://n3uralia.com">n3uralia.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://n3uralia360.art">n3uralia360.art</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://v1sioncraft.art">v1sioncraft.art</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://clar1ty.art">clar1ty.art</a>
+</p>
