@@ -194,6 +194,28 @@ The account is intentionally broader than the public portfolio. It contains four
 
 The account preserves these artifacts because they are part of the engineering process. The portfolio only elevates the systems that represent original, meaningful work.
 
+## Repository provenance
+
+GitHub's repository graph is part of the evidence. When GitHub reports a repository as a fork with a parent/source project, that upstream project remains the original authorship.
+
+Confirmed public upstream forks in this account include:
+
+| Repository in this account | Upstream source | How it is treated here |
+|---|---|---|
+| `gemini-cli` | `google-gemini/gemini-cli` | Evaluation / research fork |
+| `OpenMemory` | `CaviraOSS/LongMemory` | Evaluation / research fork |
+| `hermes-agent` | `NousResearch/hermes-agent` | Evaluation / research fork |
+| `open-code-review` | `alibaba/open-code-review` | Evaluation / research fork |
+| `SphereAR` | `guolinke/SphereAR` | Research fork |
+| `clarity-upscaler` | `philz1337x/clarity-upscaler` | Upstream image tooling; not the origin of Clar1ty |
+| `CogVideo` | `zai-org/CogVideo` | Video-model research fork |
+
+These repositories are useful engineering inputs, but **they are not presented as Travis Comber / N3uralia products**.
+
+Examples of public original lineages elevated by this curation include N3uralia, Sur-Realista, Black Swan Facility Core, ChileFlota, MOTIL, Kumplio, Videntia, SegurIA, Cort3x, Pescamar / UniGrade, ANTEMANO and Ableton AI Control Bridge. Private original systems such as Property Partners and Clar1ty are represented through their product surfaces instead of exposing client or implementation IP.
+
+This provenance rule is permanent: product authorship is determined by the actual lineage and repository evidence, not by which repositories happen to be visible on the account.
+
 ---
 
 # The architecture that emerged
