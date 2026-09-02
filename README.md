@@ -49,8 +49,8 @@ AI is part of the operating system, not a decorative layer. Canonical data, dete
 |---|---|---|---|---|
 | **Property Partners Intelligence** | Real Estate Intelligence OS | Market intelligence + professional valuation + commercial control | **Production** | [ppartnersgroup.app](https://ppartnersgroup.app) |
 | **Black Swan Facility Core** | Facility & Hospitality OS | One operating layer for hospitality, people, assets, inventory, procurement, maintenance, finance and events | **Mature** | [blackswn.app](https://blackswn.app) |
-| **LABBE / DocuFleet** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [Repository](https://github.com/traviscomber/v0-transport-certificates-automation) |
-| **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [Repository](https://github.com/traviscomber/v0-erpminia) |
+| **LABBE / DocuFleet** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [chileflota.app](https://chileflota.app) |
+| **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [motil.app](https://motil.app) |
 | **Kumplio** | Privacy Compliance OS | Turn regulatory gaps into accountable work, evidence and auditable closure | **Active** | [kumplio.app](https://www.kumplio.app/es) |
 | **Videntia** | Industrial Property Intelligence OS | Trademarks, patents, monitoring, cases, governance and decision intelligence | **Active** | [videntia.app](https://videntia.app) |
 | **Clar1ty** | Visual Intelligence OS | Analyze, enhance and restore images while preserving identity and visual structure | **Active** | [clar1ty.art](https://clar1ty.art) |
@@ -116,7 +116,7 @@ Evidence-driven operations for transportistas, subcontractors, drivers, vehicles
 
 `Evidence → Validation → Compliance → Action`
 
-[Open repository](https://github.com/traviscomber/v0-transport-certificates-automation)
+[Open product](https://chileflota.app) · [Repository](https://github.com/traviscomber/v0-transport-certificates-automation)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ Not a generic ERP. MOTIL models the mining operation itself: production, mainten
 
 `Alert → Work Order → Resource → HSE → Evidence → KPI`
 
-[Open repository](https://github.com/traviscomber/v0-erpminia)
+[Open product](https://motil.app) · [Repository](https://github.com/traviscomber/v0-erpminia)
 
 </td>
 </tr>
