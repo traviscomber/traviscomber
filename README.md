@@ -60,7 +60,7 @@ The GitHub account is the engineering record behind the portfolio: original syst
 | System | Vertical operating system | Core outcome | Stage | Product |
 |---|---|---|---|---|
 | **Property Partners Intelligence** | Real Estate Intelligence OS | Market intelligence + professional valuation + commercial control | **Production** | [ppartnersgroup.app](https://ppartnersgroup.app) |
-| **Black Swan Facility Core** | Facility & Hospitality OS | Hospitality, people, assets, inventory, procurement, maintenance, finance and events in one operating layer | **Mature** | — |
+| **Black Swan Facility Core** | Facility & Hospitality OS | Hospitality, people, assets, inventory, procurement, maintenance, finance and events in one operating layer | **Mature** | [blackswn.app](https://blackswn.app) |
 | **ChileFlota / LABBE** | Transport Compliance OS | Evidence-driven document, fleet, driver and subcontractor compliance | **Mature** | [chileflota.app](https://chileflota.app) |
 | **MOTIL** | Mining Operations OS | Production, maintenance, warehouse, HSE, documents, finance and management in one operational model | **Mature** | [motil.app](https://motil.app) |
 | **Kumplio** | Privacy Compliance OS | Turn regulatory gaps into accountable work, evidence and auditable closure | **Active** | [kumplio.app](https://www.kumplio.app/es) |
@@ -69,7 +69,7 @@ The GitHub account is the engineering record behind the portfolio: original syst
 | **Sent1nels** | Cybersecurity Operations OS | Detection, incidents, response, playbooks and security intelligence | **Active** | [sent1nels.com](https://sent1nels.com) |
 | **Sur-Realista** | Territorial Real Estate OS | Geospatial property operations, CRM, tasks, communications and portfolio intelligence | **Active** | — |
 | **EcoSueloLab** | Agricultural Intelligence OS | Satellite and field intelligence translated into actionable farm decisions | **Active** | — |
-| **SegurIA** | Operational Security OS | Cameras, sensors and access control converted into actionable security operations | **Active** | — |
+| **SegurIA** | Operational Security OS | Cameras, sensors and access control converted into actionable security operations | **Active** | [seguria.tech](https://seguria.tech) |
 | **Despega Tu Carrera** | Career Intelligence OS | Personal diagnosis, skills, AI coaching and an executable development route | **Active** | [despegatucarrera.com](https://despegatucarrera.com) |
 | **Cort3x** | Innovation Intelligence OS | Research, opportunity mapping, structured strategy and execution | **Active** | [cort3x.app](https://cort3x.app) |
 | **ANTEMANO** | Anticipatory Intelligence OS | Convert weak signals into useful lead time before operational impact | **R&D** | [antemano.app](https://www.antemano.app) |
@@ -112,6 +112,8 @@ A production operating system connecting market supply, canonical property ident
 A shared operational core for bookings, people, assets, inventory, procurement, maintenance, finance, events and administration — built around canonical objects instead of disconnected modules.
 
 `Reservation · Asset · Purchase · Work · Finance`
+
+[Open product](https://blackswn.app)
 
 </td>
 </tr>
@@ -214,6 +216,20 @@ Professional enhancement and restoration where the source image stays authoritat
 </td>
 </tr>
 </table>
+
+---
+
+# Experimental Engineering
+
+### Ableton AI Control Bridge
+
+A local, auditable protocol bridge that lets AI agents control **Ableton Live** through explicit JSON commands rather than fragile screen automation. It combines an HTTP control layer, validation, approval/history, UDP transport, Max for Live and Live API integration.
+
+`AI / Agent → JSON → Control Bridge → Max for Live → Ableton Live`
+
+[Explore the public project](https://github.com/traviscomber/ableton-ai-control-bridge)
+
+This section is intentionally separate from N3uralia's commercial operating systems. It represents technically distinctive experimental engineering.
 
 ---
 
