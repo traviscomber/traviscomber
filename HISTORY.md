@@ -8,7 +8,7 @@ This is the curated history behind the work visible across my GitHub account and
 
 It does **not** rewrite Git history. It explains it.
 
-At the time of this curation in September 2026, the account contained **100 owned repositories**: original products, private client systems, prototypes, research experiments and upstream tools used for evaluation. This history deliberately separates those categories so that forks and mirrors are never presented as original N3uralia work.
+At the time of this curation in September 2026, the account contained **149 repositories** across the authenticated account view: original products, private client systems, prototypes, research experiments and upstream tools used for evaluation. This history deliberately separates those categories so that forks and mirrors are never presented as original N3uralia work.
 
 ---
 
