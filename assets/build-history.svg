@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc" style="background:#000000">
   <title id="title">N3uralia Project Origin Timeline 2025–2026</title>
   <desc id="desc">Timeline based on earliest verified private and public original project lineages, separating project origins from later rebuilds and documentation updates.</desc>
-  <rect width="1200" height="270" fill="#0B0F10"/>
+  <rect x="0" y="0" width="1200" height="270" fill="#000000"/>
   <text x="50" y="38" fill="#78938E" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">PROJECT ORIGINS / PRIVATE + PUBLIC / 2025 → 2026</text>
   <text x="50" y="73" fill="#E6E9E3" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600">FROM VERTICAL AI EXPERIMENTS TO OPERATING SYSTEMS</text>
   <text x="50" y="98" fill="#526964" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.1">EARLIEST VERIFIED LINEAGE · REBUILDS, RENAMES AND DOCUMENTATION DO NOT RESET THE CLOCK</text>
