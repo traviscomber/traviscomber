@@ -1,219 +1,204 @@
 # Build History
 
 <p align="center">
-  <strong>From early vertical AI systems to governed operating systems.</strong>
+  <strong>From vertical AI experiments to governed operating systems.</strong>
 </p>
 
-This is the curated history behind the work visible across my GitHub account and the N3uralia ecosystem.
+This is a curated engineering history of the work behind the GitHub account and the N3uralia ecosystem. It includes meaningful **public and private original project lineages**. Private repositories remain private: this document records only high-level project identity, chronology and lineage, not private implementation details.
 
-It does **not** rewrite Git history. It explains it.
-
-At the time of this curation in September 2026, the authenticated account view contained **149 repositories** across original products, private client systems, prototypes, research experiments and upstream tools used for evaluation.
+At the time of this curation in September 2026, the authenticated account view contained **149 repositories** spanning original products, client systems, prototypes, R&D, rebuilds and upstream tools used for evaluation.
 
 ---
 
-## How dates are assigned
+## Chronology rule
 
-The timeline follows the **project lineage**, not the creation date of whichever repository happens to be current today.
+The timeline follows the **project lineage**, not the date of the newest repository.
 
-**Project origin** = the earliest verified GitHub repository or commit that clearly belongs to that original product lineage.
+- **Project origin** = earliest verified repository or commit that clearly belongs to that original project lineage.
+- **Rebuild / current implementation** = later repository, rewrite or dedicated implementation; it does not reset the origin date.
+- **Prototype / R&D** = original engineering with a distinct idea or domain, even if it never became a commercial product.
+- **Upstream / evaluation** = external open-source work used for research or integration; never presented as original N3uralia authorship.
 
-**Current implementation / rebuild** = a later repository, rewrite or dedicated implementation. It is recorded separately and never replaces the project's origin date.
-
-README edits, documentation work, migrations, renames and portfolio curation dates **do not determine the project timeline**.
-
-When an earlier repository is only adjacent in subject matter but cannot be proven to be the same lineage, the project is **not** backdated.
-
----
-
-## Verified origin map
-
-| Project / lineage | Earliest verified origin | Evidence / early lineage | Later implementation milestone |
-|---|---:|---|---|
-| **ClaimIA** | **29 Apr 2025** | `claimai` | later `claimAI-5s` implementation |
-| **ReembolsIA** | **29 Apr 2025** | `ReembolsIA` | historical vertical AI system |
-| **EcoSueloLab** | **22 May 2025** | `ecosuelolab` | later agricultural intelligence work |
-| **N3uralia** | **29 May 2025** | original private `neuralia` lineage | public `neuralianew` lineage created 28 Jun 2025 |
-| **PermisologIA** | **30 May 2025** | `permisologIA` | historical compliance / permits line |
-| **Tattersall** | **31 May 2025** | public `tattersall` | later related experiments followed |
-| **LABBE → ChileFlota** | **23 Jun 2025** | `labbe` | current transport implementation created 29 Sep 2025 |
-| **Mining systems → MOTIL** | **6 Jul 2025** | `Fondosmineria` / `Ia mining system` | current `v0-erpminia` implementation created 25 May 2026 |
-| **FlowSketch / spatial research** | **7 Jul 2025** | `FlowGenNoise` | later N3uralia360 / spatial-media lineage |
-| **Image enhancement → Clar1ty** | **20 Jul 2025** | `Imgenhnancer` | `clar1tyv3` created 17 Oct 2025 |
-| **Sur-Realista** | **11 Aug 2025** | `surrealista` | evolved into Territorial Real Estate OS |
-| **N3uralia360 public code lineage** | **27 Aug 2025** | `n3urali-art-e-commerce-site` | current product evolved toward immersive / spatial media |
-| **N3uralia Nano** | **11 Sep 2025** | `nano-banana-agents` | hardened agentic control layer in Sep 2026 |
-| **Cort3x** | **23 Nov 2025** | `cort3x` | Innovation Intelligence OS |
-| **Black Swan Facility Core** | **4 Dec 2025** | `black-swan-facility-core` | Facility & Hospitality OS |
-| **SegurIA** | **5 Jan 2026** | verified SegurIA initiative and architecture inside Cort3x | dedicated repo created 27 May 2026 |
-| **Videntia** | **11 May 2026** | earliest verified dedicated Visual Compare / Videntia lineage found in this audit | current `0-visual-compare-chile` lineage |
-| **Yagán PMS** | **5 Jun 2026** | `v0-mini-pms-dashboard` | Hospitality OS foundation |
-| **Kumplio** | **6 Jun 2026** | `kumplio` | Privacy Compliance OS |
-| **Property Partners Intelligence** | **10 Jul 2026** | private `n3uralia-intelligence-platform-propertyparners` | production at ppartnersgroup.app |
-| **Edge Intelligence** | **7 Aug 2026** | private `edgevision` | Physical Intelligence R&D |
-| **Pescamar / UniGrade** | **19 Aug 2026** | `pescamar` | Seafood Quality OS MVP |
-| **ANTEMANO** | **23 Aug 2026** | `antes` | Anticipatory Intelligence R&D |
-
-This map is intentionally conservative: an earlier date is used only when the repository or commit can be tied to the same product lineage.
+README edits, documentation work, migrations, renames and portfolio curation do **not** determine project birth dates.
 
 ---
 
-# 2025 — Vertical AI appears before the operating-system language
+# Verified project-origin map
 
-## April 2025 · First verified vertical systems
+The map below intentionally includes private projects. Private source repositories are named for provenance but are not linked.
 
-The account already contains original domain-focused systems in **April 2025**.
+| Origin | Project / lineage | Visibility | Historical role / later evolution |
+|---|---|---|---|
+| **28 Apr 2025** | **DISCiA Leadership Platform** | Private | AI-assisted leadership-development platform; earliest verified original project in this audit |
+| **29 Apr 2025** | **ClaimIA** | Private | Claims/evidence workflow line; later dedicated implementations followed |
+| **29 Apr 2025** | **ReembolsIA** | Private | Reimbursement and evidence-processing vertical |
+| **30 Apr 2025** | **La Parada Restaurant AI** | Private | Restaurant operations / POS intelligence experiment |
+| **30 Apr 2025** | **EduAI** | Private | Education AI line; `EduAI-2m` continued the same day |
+| **6 May 2025** | **StructIA** | Private | Structured AI / operational modeling experiment |
+| **6 May 2025** | **TsakAI** | Private | Task, calendar and work-orchestration integration |
+| **12 May 2025** | **Nuanu Interactive** | Private | Interactive/spatial experience experiment |
+| **22 May 2025** | **EcoSueloLab** | Private | Agricultural intelligence; later WhatsApp and agronomic agent iterations followed |
+| **24 May 2025** | **Image Generator** | Private | Generative-image integration experiment; kept separate from Clar1ty unless lineage is proven |
+| **25 May 2025** | **RosettaAI** | Private | Agent / knowledge interaction line; later Rosetta iterations followed |
+| **29 May 2025** | **N3uralia** | Private origin → public rebuild | Original N3uralia repository; `neuralianew` public lineage followed 28 Jun 2025 |
+| **30 May 2025** | **PermisologIA** | Private | Permits/compliance vertical |
+| **31 May 2025** | **Tattersall** | Public + private iterations | Operational/business-system experiments; later Tattersall variants followed |
+| **5 Jun 2025** | **Thruxion** | Private | Business/AI product experiment; later Thruxion iterations followed |
+| **7 Jun 2025** | **FacadIA** | Private | Visual/social analysis line; later `facadesphoenix` iteration followed |
+| **8 Jun 2025** | **HandarAI** | Private | Multi-capability AI suite experiment |
+| **9 Jun 2025** | **Parrotfy AI connector** | Private | WhatsApp AI integration line for Parrotfy ERP; later `parrotfyia` / `parrotfyiav2` iterations |
+| **10 Jun 2025** | **TomPetrol** | Private | Energy/fuel commercial operations line; later TomEnergy iteration |
+| **12 Jun 2025** | **SafeNav** | Private | Navigation/safety product experiment |
+| **14 Jun 2025** | **AnimalAI** | Private | Agent/MCP business application experiment |
+| **23 Jun 2025** | **LABBE → ChileFlota** | Public/private lineage | Transport compliance lineage; current implementation later became ChileFlota |
+| **6 Jul 2025** | **Mining AI → MOTIL** | Private origin → public current repo | `Fondosmineria` / AI mining system is earliest verified ancestor; `v0-erpminia` followed in May 2026 |
+| **7 Jul 2025** | **FlowSketch / FlowGenNoise** | Public/private iterations | Spatial, generative and 360° research line |
+| **9 Jul 2025** | **AI Governance System** | Private | AI governance / policy-system experiment |
+| **17 Jul 2025** | **OfficeAI** | Private | Office/work intelligence experiment |
+| **18 Jul 2025** | **GrokTrade** | Private | Market/crypto signal intelligence experiment |
+| **20 Jul 2025** | **Image enhancement → Clar1ty** | Public precursor → private product | `Imgenhnancer` is earliest verified preservation/enhancement lineage; `clar1tyv3` followed 17 Oct 2025 |
+| **30 Jul 2025** | **MIDIgen** | Private | Generative music/MIDI engineering experiment |
+| **1 Aug 2025** | **HRrus** | Private | Human-resources operating-system experiment |
+| **3 Aug 2025** | **TomEnergy** | Private | Continuation/evolution of the TomPetrol energy line |
+| **11 Aug 2025** | **Sur-Realista** | Public | Territorial Real Estate OS lineage |
+| **27 Aug 2025** | **N3uralia360 public code lineage** | Public | Earlier marketplace generation; evolved toward immersive/spatial media |
+| **11 Sep 2025** | **N3uralia Nano** | Private | Agentic control / bounded-agent line |
+| **22 Sep 2025** | **Botel AI Hotel** | Private | Hospitality AI line preceding later hospitality OS work |
+| **29 Sep 2025** | **ChileFlota current transport implementation** | Public | Dedicated implementation milestone; LABBE origin remains 23 Jun 2025 |
+| **1 Oct 2025** | **N3uralia Security Suite** | Private | Agentic cybersecurity R&D line; kept distinct from SegurIA until same-lineage evidence is explicit |
+| **5 Oct 2025** | **V1sibly** | Private | LLM/search/visibility intelligence experiment |
+| **17 Oct 2025** | **Clar1ty dedicated implementation** | Private | Dedicated implementation of the image-preservation lineage begun in July |
+| **28 Oct 2025** | **LarrainRE** | Private | Real-estate intelligence experiment |
+| **7 Nov 2025** | **Connect0s** | Private | Connectivity/operations product experiment |
+| **19 Nov 2025** | **HappyChicken** | Private | Multi-MVP agricultural/food-production experiment |
+| **22 Nov 2025** | **NAE** | Private | N3uralia experimental product line |
+| **23 Nov 2025** | **Cort3x** | Public | Innovation Intelligence OS |
+| **4 Dec 2025** | **Black Swan Facility Core** | Public | Facility & Hospitality OS |
+| **19 Dec 2025** | **PR1SM** | Private | AI content/intelligence engine line |
+| **5 Jan 2026** | **SegurIA verified initiative** | Public evidence → dedicated repo later | SegurIA architecture already existed inside Cort3x; dedicated repo followed 27 May 2026 |
+| **28 Feb 2026** | **LexCore** | Private | Legal/domain intelligence platform; later `lexcore-9p` iteration |
+| **11 May 2026** | **Videntia** | Public | Earliest verified dedicated Visual Compare / Videntia lineage found so far |
+| **25 May 2026** | **MOTIL current implementation** | Public | Current mining OS repo; origin remains 6 Jul 2025 |
+| **27 May 2026** | **SegurIA dedicated implementation** | Public | Dedicated security product repo; project evidence predates it |
+| **5 Jun 2026** | **Yagán PMS** | Public | Hospitality OS foundation |
+| **6 Jun 2026** | **Kumplio** | Public | Privacy Compliance OS |
+| **10 Jul 2026** | **Property Partners Intelligence** | Private | Real Estate Intelligence OS |
+| **7 Aug 2026** | **Edge Intelligence** | Private | Physical Intelligence / computer-vision evidence lifecycle R&D |
+| **19 Aug 2026** | **Pescamar / UniGrade** | Public | Seafood Quality OS |
+| **23 Aug 2026** | **ANTEMANO** | Public | Anticipatory Intelligence R&D |
 
-**ClaimIA** and **ReembolsIA** were both created on **29 April 2025**. They are important because they show that the work began with specific operational domains — claims, evidence, reimbursements and business workflows — rather than with a generic AI portfolio.
+This is a **project map, not a repository dump**. Multiple repositories that are rebuilds or variants of the same idea are grouped under one lineage rather than falsely counted as separate products.
 
-The later architecture became more sophisticated, but the central question was already visible:
+---
 
-> How should AI interact with real evidence, domain rules and an accountable business process?
+# 2025 — The portfolio starts earlier and broader than the public profile suggested
 
-## May 2025 · Agriculture, N3uralia and domain-agent experimentation
+## April 2025 · Vertical AI from the beginning
 
-**EcoSueloLab** was created on **22 May 2025**.
+The earliest verified original project in this audit is **DISCiA Leadership Platform**, created on **28 April 2025**. On **29 April**, ClaimIA and ReembolsIA appear; on **30 April**, La Parada Restaurant AI and EduAI follow.
 
-The original **N3uralia** repository lineage was created on **29 May 2025**. The current public web repository came later, on 28 June; that later repository is a rebuild/public lineage, not the birth of N3uralia.
+This matters historically: the account did not begin with a generic AI website. It began with multiple domain systems — leadership, claims, reimbursements, restaurant operations and education — built around real workflows.
 
-**PermisologIA** followed on **30 May 2025**, and the verified public **Tattersall** experiment on **31 May 2025**.
+## May 2025 · Orchestration, agriculture, agents and the N3uralia identity
 
-By the end of May, the recurring pattern was already domain-specific: agriculture, compliance, agents, evidence processing and business workflows.
+May adds StructIA, TsakAI, Nuanu Interactive, EcoSueloLab, image-generation experimentation, RosettaAI, N3uralia, PermisologIA and Tattersall.
 
-## June 2025 · Transport compliance becomes a system
+The original **N3uralia** repository was created on **29 May 2025**. The later public `neuralianew` repository is a public rebuild, not the company's technical origin.
 
-The **LABBE** lineage was created on **23 June 2025**.
+By this point several patterns are already visible: domain specialization, agent orchestration, evidence processing, workflow automation and interfaces that connect AI to an operational context.
 
-The later transport repository created on 29 September 2025 became the current implementation lineage behind **ChileFlota**, but September is not the project's origin.
+## June 2025 · The portfolio expands into commerce, visual intelligence, energy, safety and transport
 
-The product direction moved from document handling toward a transport compliance operating model connecting companies, subcontractors, drivers, vehicles, evidence, verification and operational follow-up.
+June adds Thruxion, FacadIA, HandarAI, the Parrotfy AI connector, TomPetrol, SafeNav and AnimalAI before the LABBE transport-compliance lineage appears on **23 June**.
+
+LABBE later evolved into the current **ChileFlota** transport compliance OS. The dedicated modern transport repository created in September is therefore a rebuild milestone, not its origin.
 
 **Current product:** [chileflota.app](https://chileflota.app)
 
-## July 2025 · Mining, spatial media and preservation-first imaging
+## July–August 2025 · Mining, spatial systems, governance and specialized intelligence
 
-Three important lineages appear in July:
+July introduces the mining-system lineage that later becomes **MOTIL**, FlowSketch/FlowGenNoise spatial research, an AI-governance experiment, OfficeAI, GrokTrade, the image-enhancement lineage behind Clar1ty and MIDIgen.
 
-- **6 July — Mining systems:** `Fondosmineria` described itself as an AI mining system. This is the earliest verified mining-system ancestor of the line that later became **MOTIL**. The current `v0-erpminia` repository was created in May 2026 and represents a later implementation, not the origin.
-- **7 July — FlowSketch / FlowGenNoise:** generative, 360° and spatial-media experimentation that later informed N3uralia360 and VisionCraft.
-- **20 July — Imgenhnancer:** the earliest verified image-enhancement lineage that later matured into the preservation-first product philosophy of **Clar1ty**. The `clar1tyv3` repository followed in October 2025.
+August adds HRrus, the TomEnergy evolution and Sur-Realista. The breadth of the portfolio is already significant before most current public product repositories exist.
 
 **Current MOTIL product:** [motil.app](https://motil.app)  
 **Current Clar1ty product:** [clar1ty.art](https://clar1ty.art)
 
-## August 2025 · Territorial and spatial products
+## September–December 2025 · From experiments toward persistent systems
 
-**Sur-Realista** was created on **11 August 2025** and grew into a domain operating model for territorial real estate: geospatial assets, property information, CRM, communications, tasks, documents and operational workflows.
+N3uralia Nano appears in September, along with Botel's hospitality line and the dedicated ChileFlota implementation. October adds the N3uralia Security Suite, V1sibly, the dedicated Clar1ty implementation and LarrainRE. November brings Connect0s, HappyChicken, NAE and Cort3x. Black Swan and PR1SM follow in December.
 
-The public N3uralia360 code lineage represented by `n3urali-art-e-commerce-site` was created on **27 August 2025**. The current N3uralia360 product has since evolved beyond that early marketplace implementation toward immersive worlds, fulldome, heritage, VR and spatial media.
-
-## September 2025 · Agentic control becomes a product line
-
-**N3uralia Nano** was created on **11 September 2025**.
-
-Its later 2026 hardening consolidated a canonical agent catalog, server-side authorization, per-agent entitlement checks and bounded inference. That work is a maturation milestone; it does not move the project's origin into 2026.
-
-The current dedicated ChileFlota implementation repository was created later that month, on **29 September 2025**, continuing the LABBE lineage that began in June.
-
-## October 2025 · Clar1ty becomes a dedicated implementation
-
-`clar1tyv3` was created on **17 October 2025**, continuing the image-enhancement lineage that began with Imgenhnancer in July.
-
-The product principle became clearer: enhancement and restoration should improve utility without silently replacing the source evidence.
-
-## November 2025 · Structured innovation systems
-
-**Cort3x** was created on **23 November 2025**.
-
-This line explored structured research, market intelligence, opportunity mapping, strategic analysis and guided execution — moving from generic assistance toward a persistent decision system.
-
-**Current product:** [cort3x.app](https://cort3x.app)
-
-## December 2025 · Facility operations become one model
-
-**Black Swan Facility Core** was created on **4 December 2025**.
-
-Black Swan is one of the clearest transitions from application thinking to operating-system thinking. Bookings, people, assets, inventory, procurement, maintenance, finance, events and administration are different views over the same facility operation.
-
-`Reservation · Asset · Purchase · Work · Finance`
-
-**Current product:** [blackswn.app](https://blackswn.app)
+The architectural shift is increasingly visible: instead of one-off AI features, these projects begin to model entities, states, permissions, evidence and actions that persist over time.
 
 ---
 
-# 2026 — Earlier lineages converge into operating systems
+# 2026 — Earlier experiments converge into operating systems
 
-## January 2026 · SegurIA is already present
+## Security, legal intelligence and dedicated product rebuilds
 
-The earliest verified SegurIA evidence in this audit is **5 January 2026**, when the SegurIA initiative and architecture were already present inside Cort3x.
+SegurIA is already evidenced in January 2026 inside Cort3x, while its dedicated public repository arrives in May. LexCore appears in February as a private legal/domain-intelligence line.
 
-The dedicated SegurIA repository was not created until **27 May 2026**. May therefore marks a dedicated implementation/rebuild, not the beginning of the project.
+The same distinction applies to MOTIL: its current repository was created in May 2026, but the mining-system lineage is verified back to July 2025.
 
-## May 2026 · Dedicated product implementations, not a blank starting point
+## Vertical operating systems
 
-Several repos created in May 2026 are important, but they should not all be interpreted as product birth dates.
+During 2026, several mature lines become explicit operating systems rather than isolated applications:
 
-**Videntia** currently has its earliest verified dedicated lineage on **11 May 2026**. No earlier same-product predecessor was established during this audit, so this date remains conservative.
+- **MOTIL** — Mining Operations OS.
+- **ChileFlota** — Transport Compliance OS.
+- **Sur-Realista** — Territorial Real Estate OS.
+- **Black Swan** — Facility & Hospitality OS.
+- **Videntia** — Industrial Property Intelligence OS.
+- **Kumplio** — Privacy Compliance OS.
+- **Property Partners Intelligence** — Real Estate Intelligence OS.
+- **Pescamar / UniGrade** — Seafood Quality OS.
 
-The current **MOTIL** repository was created on **25 May 2026**, continuing a mining-system lineage verified back to July 2025.
+Other lines remain R&D or experimental by design, including Edge Intelligence and ANTEMANO.
 
-The dedicated **SegurIA** repository was created on **27 May 2026**, continuing the SegurIA work already evidenced in January.
+---
 
-This distinction is the key correction to the old history: **repository modernization is not project creation**.
+# Private repository families
 
-## June 2026 · Hospitality and executable compliance
+A private repository is not omitted simply because it is private. At the same time, repository count is not product count.
 
-**Yagán PMS** was created on **5 June 2026** as a hospitality operating-system foundation.
+Examples of private families that are treated as evolutions rather than separate products include:
 
-**Kumplio** was created on **6 June 2026** and turns privacy and regulatory obligations into accountable operational work:
+- **EduAI:** `Eduai` → `EduAI-2m`.
+- **Parrotfy AI:** `parrotfy` → `parrotfyia` → `parrotfyiav2`.
+- **EcoSueloLab:** `ecosuelolab` → `ecolabwaia` / `v0-ecosuelo-agente-conv2` / WhatsApp iterations.
+- **Rosetta:** `rosetaIA` → `Rosettav3`.
+- **FacadIA:** `facadIA` → `facadesphoenix`.
+- **Tattersall:** `tattersall` plus later Tattersall implementation variants.
+- **FlowSketch:** FlowGen/FlowSketch/Chile/spatial variants grouped only where same-lineage evidence is clear.
+- **ClaimIA:** early ClaimIA repositories plus later dedicated implementations.
+- **LABBE / ChileFlota:** early LABBE repositories plus later transport-compliance implementation.
+- **LexCore:** `lexcore` → `lexcore-9p`.
+- **N3uralia corporate web:** `neuralia` → `neuralianew` / later web rebuilds; these are not separate products.
 
-`Discover → Gap → Action → Evidence → Review`
+Other private repositories remain in the inventory but are not promoted into the main project map until their distinct lineage or historical significance is verified. This avoids both errors: **hiding real private work** and **inflating the portfolio by counting every rebuild as a new project**.
 
-**Current product:** [kumplio.app](https://www.kumplio.app/es)
+---
 
-## July 2026 · Property Partners
+# Repository provenance
 
-The current **Property Partners Intelligence** repository was created on **10 July 2026**.
+The account contains four different classes of repository:
 
-It joins market intelligence, professional valuation and commercial management while keeping AI subordinate to evidence, deterministic rules, authorization and human professional authority.
+| Class | Meaning |
+|---|---|
+| **Canonical product / system** | Original N3uralia or client system with a meaningful product lineage |
+| **Earlier generation / prototype** | Original work that contributed domain knowledge, architecture, workflow or UI thinking |
+| **Private client / R&D work** | Real engineering intentionally not publicly inspectable |
+| **Upstream / evaluation** | External open-source work used for testing, integration or research; never claimed as original |
 
-`Market → Comparables → Decision → Approval → Issued Evidence`
-
-**Current product:** [ppartnersgroup.app](https://ppartnersgroup.app)
-
-The implementation remains private because it contains client-specific engineering and operational context.
-
-## August 2026 · Physical, seafood and anticipatory intelligence
-
-**Edge Intelligence** was created on **7 August 2026**, extending the architecture into the physical-evidence lifecycle:
-
-`Physical evidence → Inference → Observation → Human review → Dataset → Model lifecycle`
-
-**Pescamar / UniGrade** was created on **19 August 2026**, modeling seafood quality as a shared evidence chain across lots, receiving, grading, yield, mass balance, packaging and traceability.
-
-**ANTEMANO** was created on **23 August 2026**, pushing the portfolio from current-state intelligence toward weak-signal detection and useful operational lead time.
-
-**Current ANTEMANO product:** [antemano.app](https://www.antemano.app)
-
-## September 2026 · Hardening and curation
-
-September 2026 includes substantial hardening, QA, documentation and portfolio curation across the ecosystem.
-
-Those activities are recorded as **maturity milestones**, not as artificial project creation dates. For example, N3uralia Nano received a major security/publication hardening pass and merged it into its main branch on 3 September 2026, while its project origin remains 11 September 2025.
+Examples of upstream/evaluation repositories include `gemini-cli`, `OpenMemory`, `hermes-agent`, `open-code-review`, `SphereAR`, `clarity-upscaler`, `CogVideo`, `FramePack`, `Paper2Video`, `cog-stable-diffusion` and other research/tooling mirrors. They are engineering inputs, not N3uralia products.
 
 ---
 
 # The through-line
 
-The projects changed, but the underlying problem stayed consistent:
-
-> How do you connect real-world evidence, fragmented business processes and machine intelligence into a system that can make operations more visible, more controlled and more executable?
-
-The architecture that emerged is the N3uralia pattern:
+Across the private experiments and the current public systems, the recurring architecture becomes increasingly clear:
 
 **Evidence → Decision → Action → Traceability**
-
-What began as vertical AI applications became reusable domain systems, then persistent operational models, and finally vertical operating systems and intelligence layers that model the operation itself.
 
 ```text
 REAL WORLD / BUSINESS OPERATION
@@ -242,45 +227,7 @@ REAL WORLD / BUSINESS OPERATION
               └──────────────► MEMORY / LEARNING
 ```
 
----
-
-# Repository provenance
-
-The account contains four distinct categories:
-
-| Category | Meaning |
-|---|---|
-| **Canonical product / system** | Original N3uralia or client system with a meaningful product lineage |
-| **Earlier generation / prototype** | Original work that contributed architecture, UX, workflow or domain knowledge to a later system |
-| **Private client / R&D work** | Real engineering that is intentionally not publicly inspectable |
-| **Upstream fork / evaluation tool** | External open-source work used for testing, integration or research; never claimed as original N3uralia authorship |
-
-Confirmed public upstream/evaluation repositories include `gemini-cli`, `OpenMemory`, `hermes-agent`, `open-code-review`, `SphereAR`, `clarity-upscaler`, `CogVideo`, `FramePack`, `Paper2Video`, `RollingForcing`, `cog-stable-diffusion`, `AI-Tutorial-Codes-Included`, `Rock-and-Mine-Detection`, `End-to-End-Movie-Recommendation-System`, `awesome-claude-agents`, `agency-agents`, `open-agent-buildercrawler`, `langrepl`, `aileen`, `user-prompt-mcp`, `lyricmind`, `storytime-slackbot` and `astro`.
-
-These are engineering inputs, not Travis Comber / N3uralia products.
-
-Verified original public lineages include N3uralia, Sur-Realista, Black Swan, ChileFlota/LABBE, MOTIL, Kumplio, Videntia, SegurIA, Cort3x, Pescamar/UniGrade, ANTEMANO, Ableton AI Control Bridge, FlowSketch/FlowGenNoise and Imgenhnancer. Private original systems such as Property Partners, Clar1ty, ClaimIA, EcoSueloLab, N3uralia Nano and Edge Intelligence are represented through product/capability surfaces when exposing implementation would reveal private context or product IP.
-
-This provenance rule is permanent: authorship and chronology are determined by the actual repository/commit lineage, not by whichever repository is newest or most visible.
-
----
-
-# Current thesis
-
-N3uralia builds **vertical operating systems and intelligence layers** for operations where evidence, workflows, people, physical reality and AI need to coexist safely.
-
-The core rules are stable:
-
-- Canonical data before AI.
-- Missing information is not zero.
-- Evidence remains visible.
-- Deterministic rules remain deterministic.
-- Consequential authority stays with authorized humans.
-- Automation must be observable.
-- Decisions and actions must remain traceable.
-- Production systems require release gates and rollback readiness.
-
-<p align="center"><strong>Evidence → Decision → Action → Traceability</strong></p>
+The trajectory is not “many unrelated apps”. It is a progression from domain-specific AI experiments into reusable operational patterns and, eventually, **vertical operating systems and intelligence layers**.
 
 ---
 
@@ -288,6 +235,6 @@ The core rules are stable:
 
 **Canonical history through 3 September 2026.**
 
-No historical commits were rewritten, backdated or deleted as part of this curation. The history now separates **project origin** from **later implementation/rebuild dates** so documentation work cannot accidentally move projects forward in time.
+No historical commits were rewritten, backdated or deleted. Private repositories remain private. This history records their existence and project chronology without publishing private implementation details.
 
-Future entries should be added only when a project reaches a meaningful architectural, product or production milestone — not for every documentation edit, repository migration or experiment.
+The chronology is conservative: if two repositories look related but same-lineage evidence is not strong enough, they remain separate until verified.
