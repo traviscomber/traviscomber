@@ -12,13 +12,14 @@
 <p align="center">
   <code>VERTICAL OPERATING SYSTEMS</code>&nbsp;&nbsp;
   <code>DECISION INTELLIGENCE</code>&nbsp;&nbsp;
+  <code>AGENTIC SYSTEMS</code>&nbsp;&nbsp;
   <code>PHYSICAL INTELLIGENCE</code>&nbsp;&nbsp;
   <code>SPATIAL MEDIA</code>
 </p>
 
 ---
 
-I build **vertical operating systems for real operations** — connecting canonical evidence, domain workflows, authorized humans and machine intelligence in one governed layer.
+I build **vertical operating systems and intelligence layers for real operations** — connecting canonical evidence, domain workflows, authorized humans and machine intelligence in one governed layer.
 
 <p align="center"><strong>Evidence → Decision → Action → Traceability</strong></p>
 
@@ -39,7 +40,7 @@ I build **vertical operating systems for real operations** — connecting canoni
 
 ## Systems
 
-| System | Operating system | Outcome | Stage |
+| System | System type | Outcome | Stage |
 |---|---|---|---|
 | **[Property Partners](https://ppartnersgroup.app)** | Real Estate Intelligence OS | Market → valuation → commercial control | **Production** |
 | **[Black Swan](https://blackswn.app)** | Facility & Hospitality OS | One operating model for the facility | **Mature** |
@@ -47,6 +48,7 @@ I build **vertical operating systems for real operations** — connecting canoni
 | **[MOTIL](https://motil.app)** | Mining Operations OS | Production → work → evidence → KPI | **Mature** |
 | **[Kumplio](https://www.kumplio.app/es)** | Privacy Compliance OS | Gap → owner → evidence → closure | **Active** |
 | **[Videntia](https://videntia.app)** | Industrial Property Intelligence OS | Research → case → governed decision | **Active** |
+| **[N3uralia Nano](https://n3uralianano.com)** | Agentic Control Layer | Authorized agents → bounded inference → execution | **Active** |
 | **[Clar1ty](https://clar1ty.art)** | Visual Intelligence OS | Enhance without replacing source truth | **Active** |
 | **[SegurIA](https://seguria.tech)** | Operational Security OS | Physical signal → incident → action | **Active** |
 | **Sur-Realista** | Territorial Real Estate OS | Territory → property → commercial work | **Active** |
