@@ -135,3 +135,5 @@ Tattersall · Imgenhnancer · M3NTIS · 1NCUBATOR · DoubleC · ScanGlobal · Wa
 - Upstream forks and mirrors are research inputs, never presented as original N3uralia authorship.
 
 For chronology and repository provenance, see [`HISTORY.md`](./HISTORY.md).
+
+For the live repository health map (systems → canonical repos, README and link status), see [`REPOS.md`](./REPOS.md).
