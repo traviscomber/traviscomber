@@ -7,10 +7,11 @@ Canonical source: [github.com/traviscomber](https://github.com/traviscomber) · 
 | **N3uralia** (parent brand) | [neuralianew](https://github.com/traviscomber/neuralianew) | Active | ✅ | ✅ |
 | **Property Partners** | *not public on GitHub* | Production | — | — |
 | **Black Swan** | [black-swan-facility-core](https://github.com/traviscomber/black-swan-facility-core) | Mature | ✅ | ✅ |
-| **ChileFlota** | [v0-transport-certificates-automation](https://github.com/traviscomber/v0-transport-certificates-automation) | Mature | ✅ | ✅ |
-| **MOTIL** | [v0-erpminia](https://github.com/traviscomber/v0-erpminia) | Mature | ✅ | ✅ |
+| **ChileFlota** | [chileflota](https://github.com/traviscomber/chileflota) | Mature | ✅ | ✅ |
+| **MOTIL** | [motil](https://github.com/traviscomber/motil) | Mature | ✅ | ✅ |
 | **Kumplio** | [kumplio](https://github.com/traviscomber/kumplio) | Active | ✅ | ✅ |
-| **Videntia** | [0-visual-compare-chile](https://github.com/traviscomber/0-visual-compare-chile) | Active | ✅ | ✅ |
+| **Videntia** | [videntia](https://github.com/traviscomber/videntia) | Active | ✅ | ✅ |
+| **Yagán PMS** | [yagan-pms](https://github.com/traviscomber/yagan-pms) | Active | ✅ | ✅ |
 | **N3uralia Nano** | *not public on GitHub* | Active | — | — |
 | **Clar1ty** | [clarity-upscaler](https://github.com/traviscomber/clarity-upscaler) (fork) · [Imgenhnancer](https://github.com/traviscomber/Imgenhnancer) (history) | Active | ✅ | ✅ |
 | **SegurIA** | *not public on GitHub* | Active | — | — |
@@ -18,7 +19,7 @@ Canonical source: [github.com/traviscomber](https://github.com/traviscomber) · 
 | **EcoSueloLab** | *not public on GitHub* | Active | — | — |
 | **Cort3x** | [cort3x](https://github.com/traviscomber/cort3x) | Active | ✅ | ✅ |
 | **ANTEMANO** | [antes](https://github.com/traviscomber/antes) | R&D | ✅ | ✅ |
-| **Edge Intelligence** | *not public on GitHub* | R&D | — | — |
+| **Edge Intelligence** | *not public on GitHub* | Active | — | — |
 | **Pescamar · UniGrade** | [pescamar](https://github.com/traviscomber/pescamar) | MVP | ✅ | ✅ |
 | **Ableton AI Control Bridge** (experimental) | [ableton-ai-control-bridge](https://github.com/traviscomber/ableton-ai-control-bridge) | Experimental | ✅ | ✅ |
 
