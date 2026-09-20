@@ -26,4 +26,10 @@ Canonical source: [github.com/traviscomber](https://github.com/traviscomber) · 
 **Historical / learning repos (not canonical products):**
 [blog-with-comments](https://github.com/traviscomber/blog-with-comments) · [AI-Tutorial-Codes-Included](https://github.com/traviscomber/AI-Tutorial-Codes-Included) · [Imgenhnancer](https://github.com/traviscomber/Imgenhnancer)
 
+## Licensing
+
+- **Products — © N3uralia, all rights reserved:** [neuralianew](https://github.com/traviscomber/neuralianew) · [black-swan-facility-core](https://github.com/traviscomber/black-swan-facility-core) · [chileflota](https://github.com/traviscomber/chileflota) · [motil](https://github.com/traviscomber/motil) · [kumplio](https://github.com/traviscomber/kumplio) · [videntia](https://github.com/traviscomber/videntia) · [yagan-pms](https://github.com/traviscomber/yagan-pms) · [surrealista](https://github.com/traviscomber/surrealista) · [cort3x](https://github.com/traviscomber/cort3x) · [antes](https://github.com/traviscomber/antes) · [pescamar](https://github.com/traviscomber/pescamar) · [seguria-website](https://github.com/traviscomber/seguria-website) · [n3urali-art-e-commerce-site](https://github.com/traviscomber/n3urali-art-e-commerce-site)
+- **Open source — MIT:** [ableton-ai-control-bridge](https://github.com/traviscomber/ableton-ai-control-bridge) · [Imgenhnancer](https://github.com/traviscomber/Imgenhnancer) · [blog-with-comments](https://github.com/traviscomber/blog-with-comments) · [tattersall](https://github.com/traviscomber/tattersall) · [flowsketch](https://github.com/traviscomber/flowsketch) · [labbe](https://github.com/traviscomber/labbe) · [traviscomber](https://github.com/traviscomber/traviscomber) (profile)
+- **Forks** ([clarity-upscaler](https://github.com/traviscomber/clarity-upscaler) and all archived forks) keep their upstream licenses.
+
 _Legend: ✅ = present & all links verified · — = no public repo (private or not yet published)_
